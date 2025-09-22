@@ -1,133 +1,106 @@
-[16:48:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[16:48:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[16:48:00] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[16:48:01] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[16:48:01] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[22:41:02] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[22:41:03] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[22:41:03] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:41:05] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[22:41:05] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - LoginSecurity (3.2.0), SetHome (6.2.3), SimpleTpa (7.9), SkinsRestorer (15.8.0)
-[16:48:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:48:11] [ServerMain/INFO]: Loaded 1407 recipes
-[16:48:11] [ServerMain/INFO]: Loaded 1520 advancements
-[16:48:11] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[16:48:12] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 790.2ms
-[16:48:12] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[16:48:12] [Server thread/INFO]: Loading properties
-[16:48:12] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[16:48:12] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[16:48:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:48:12] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:48:14] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[16:48:14] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[16:48:14] [Server thread/INFO]: Default game type: SURVIVAL
-[16:48:14] [Server thread/INFO]: Generating keypair
-[16:48:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:48:15] [Server thread/INFO]: Using epoll channel type
-[16:48:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[16:48:15] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[16:48:15] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.2.0
-[16:48:15] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.9
-[16:48:15] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
-[16:48:15] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
-[16:48:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:48:15] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
-[16:48:17] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[16:48:18] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[16:48:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:48:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:48:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:48:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:48:18] [Server thread/INFO]: Preparing level "world"
-[16:48:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[16:48:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[16:48:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[16:48:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[16:48:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[16:48:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[16:48:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[16:48:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
-[16:48:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
-[16:48:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[16:48:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[16:48:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[16:48:18] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[16:48:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:48:19] [Server thread/INFO]: Preparing spawn area: 0%
-[16:48:19] [Server thread/INFO]: Preparing spawn area: 2%
-[16:48:20] [Server thread/INFO]: Preparing spawn area: 55%
-[16:48:20] [Server thread/INFO]: Preparing spawn area: 71%
-[16:48:21] [Server thread/INFO]: Time elapsed: 1691 ms
-[16:48:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:48:21] [Server thread/INFO]: Preparing spawn area: 0%
-[16:48:21] [Server thread/INFO]: Time elapsed: 446 ms
-[16:48:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:48:21] [Server thread/INFO]: Preparing spawn area: 0%
-[16:48:21] [Server thread/INFO]: Time elapsed: 271 ms
-[16:48:21] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[16:48:21] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[16:48:21] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[16:48:22] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[16:48:22] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[16:48:22] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[16:48:22] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.9
-[16:48:22] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[16:48:22] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.9
-[16:48:22] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[16:48:22] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
-[16:48:22] [Server thread/INFO]: [spark] Starting background profiler...
-[16:48:23] [Server thread/INFO]: Done preparing level "world" (4.988s)
-[16:48:23] [Server thread/INFO]: Running delayed init tasks
-[16:48:23] [Server thread/INFO]: Done (24.376s)! For help, type "help"
-[16:48:42] [User Authenticator #0/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[16:48:42] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
-[16:48:44] [Server thread/INFO]: 55maxx joined the game
-[16:48:44] [Server thread/INFO]: 55maxx[/127.165.158.97:57243] logged in with entity id 20 at ([world]2069.4560572869113, 14.0, 30.125348532280857)
-[16:48:52] [Server thread/INFO]: 55maxx issued server command: /gamerule keepInventory false
-[16:48:52] [Server thread/INFO]: [55maxx: Gamerule keepInventory is now set to: false]
-[16:56:35] [Server thread/INFO]: 55maxx issued server command: /home
-[16:57:31] [Server thread/INFO]: 55maxx issued server command: /tp @s 2071 16.5 28
-[16:57:31] [Server thread/INFO]: [55maxx: Teleported 55maxx to 2071.500000, 16.500000, 28.500000]
-[17:08:59] [Server thread/INFO]: 55maxx issued server command: /tp @s 2071 16.5 28
-[17:08:59] [Server thread/INFO]: [55maxx: Teleported 55maxx to 2071.500000, 16.500000, 28.500000]
-[17:14:06] [Server thread/INFO]: 55maxx issued server command: /stop
-[17:14:06] [Server thread/INFO]: [55maxx: Stopping the server]
-[17:14:06] [Server thread/INFO]: Stopping server
-[17:14:06] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.8.0
-[17:14:06] [Server thread/INFO]: [SetHome] Disabling SetHome v6.2.3
-[17:14:06] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.9
-[17:14:06] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[17:14:06] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.9
-[17:14:06] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
-[17:14:06] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[17:14:06] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[17:14:06] [Server thread/INFO]: Saving players
-[17:14:06] [Server thread/INFO]: 55maxx lost connection: Server closed
-[17:14:06] [Server thread/INFO]: 55maxx left the game
-[17:14:06] [Server thread/INFO]: Saving worlds
-[17:14:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:14:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[17:14:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[17:14:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[17:14:06] [Server thread/INFO]: [ChunkHolderManager] Saved 83 block chunks, 240 entity chunks, 0 poi chunks in world 'world' in 0.35s
-[17:14:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[17:14:06] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[17:14:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:14:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[17:14:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[17:14:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[17:14:06] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 2 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
-[17:14:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[17:14:06] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[17:14:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:14:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[17:14:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[17:14:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[17:14:07] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 13 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[17:14:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[17:14:07] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[17:14:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:14:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:14:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:14:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:14:07] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[17:14:07] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[17:14:07] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[17:14:07] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[22:41:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:41:16] [ServerMain/INFO]: Loaded 1407 recipes
+[22:41:16] [ServerMain/INFO]: Loaded 1520 advancements
+[22:41:16] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[22:41:17] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 670.3ms
+[22:41:17] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[22:41:17] [Server thread/INFO]: Loading properties
+[22:41:17] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[22:41:17] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:41:18] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:41:18] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:41:19] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[22:41:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[22:41:20] [Server thread/INFO]: Default game type: SURVIVAL
+[22:41:20] [Server thread/INFO]: Generating keypair
+[22:41:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:41:20] [Server thread/INFO]: Using epoll channel type
+[22:41:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:41:20] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[22:41:21] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.2.0
+[22:41:21] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.9
+[22:41:21] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[22:41:21] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
+[22:41:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:41:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
+[22:41:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[22:41:23] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:41:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:41:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:41:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:41:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:41:23] [Server thread/INFO]: Preparing level "world"
+[22:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
+[22:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
+[22:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:41:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:41:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:41:25] [Server thread/INFO]: Preparing spawn area: 0%
+[22:41:25] [Server thread/INFO]: Preparing spawn area: 2%
+[22:41:26] [Server thread/INFO]: Preparing spawn area: 16%
+[22:41:27] [Server thread/INFO]: Preparing spawn area: 71%
+[22:41:27] [Server thread/INFO]: Preparing spawn area: 71%
+[22:41:27] [Server thread/INFO]: Time elapsed: 2202 ms
+[22:41:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:41:27] [Server thread/INFO]: Preparing spawn area: 0%
+[22:41:27] [Server thread/INFO]: Preparing spawn area: 0%
+[22:41:28] [Server thread/INFO]: Preparing spawn area: 34%
+[22:41:28] [Server thread/INFO]: Time elapsed: 1414 ms
+[22:41:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:41:28] [Server thread/INFO]: Preparing spawn area: 0%
+[22:41:29] [Server thread/INFO]: Preparing spawn area: 26%
+[22:41:29] [Server thread/INFO]: Preparing spawn area: 73%
+[22:41:29] [Server thread/INFO]: Time elapsed: 1244 ms
+[22:41:29] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[22:41:29] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[22:41:29] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[22:41:30] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[22:41:30] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[22:41:30] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[22:41:30] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.9
+[22:41:30] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[22:41:30] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.9
+[22:41:30] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[22:41:30] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[22:41:31] [Server thread/INFO]: [spark] Starting background profiler...
+[22:41:32] [Server thread/INFO]: Done preparing level "world" (8.292s)
+[22:41:32] [Server thread/INFO]: Running delayed init tasks
+[22:41:32] [Server thread/INFO]: Done (31.476s)! For help, type "help"
+[22:41:32] [User Authenticator #0/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[22:41:32] [Server thread/INFO]: 55maxx (/127.213.21.156:57021) lost connection: Disconnected
+[22:41:34] [User Authenticator #0/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[22:41:34] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[22:41:37] [Server thread/INFO]: 55maxx joined the game
+[22:41:38] [Server thread/INFO]: 55maxx[/127.213.21.156:33141] logged in with entity id 95 at ([world_the_end]71.30000001192093, 51.08639997415543, 2.5909486069056396)
+[22:44:05] [User Authenticator #1/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
+[22:44:06] [Server thread/INFO]: NACHITOPRO898 joined the game
+[22:44:06] [Server thread/INFO]: NACHITOPRO898[/127.37.238.251:48247] logged in with entity id 1156 at ([world_nether]179.24751281737483, 27.0, 97.5658526934006)
+[22:44:54] [User Authenticator #1/INFO]: UUID of player Joa_Cac is 84eca734-2c0d-3155-bb7e-bffa1cc612ef
+[22:44:56] [Server thread/INFO]: Joa_Cac joined the game
+[22:44:56] [Server thread/INFO]: Joa_Cac[/127.206.143.98:36079] logged in with entity id 1671 at ([world]790.5242599506371, 160.27597529606908, 92.16309654156665)
+[22:46:01] [User Authenticator #2/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
+[22:46:02] [Server thread/INFO]: j04c001 joined the game
+[22:46:02] [Server thread/INFO]: j04c001[/127.213.11.19:45697] logged in with entity id 3380 at ([world]1611.1717024558268, 68.0, 551.3000000119209)
+[22:46:37] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
+[22:46:39] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[22:48:13] [Server thread/WARN]: Joa_Cac moved wrongly!
+[22:48:53] [Server thread/INFO]: j04c001 issued server command: /tpa NACHITOPRO898
+[22:48:57] [Server thread/INFO]: NACHITOPRO898 issued server command: /home
+[22:49:04] [Async Chat Thread - #0/INFO]: [Not Secure] <j04c001> ola tenes algo d sobra?
+[22:49:30] [Async Chat Thread - #1/INFO]: [Not Secure] <NACHITOPRO898> porque
+[22:50:43] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpa j04c001
