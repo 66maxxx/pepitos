@@ -104,3 +104,42 @@
 [22:49:04] [Async Chat Thread - #0/INFO]: [Not Secure] <j04c001> ola tenes algo d sobra?
 [22:49:30] [Async Chat Thread - #1/INFO]: [Not Secure] <NACHITOPRO898> porque
 [22:50:43] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpa j04c001
+[22:50:49] [Server thread/INFO]: j04c001 issued server command: /tpaccept
+[22:51:14] [Server thread/INFO]: Joa_Cac lost connection: Disconnected
+[22:51:14] [Server thread/INFO]: Joa_Cac left the game
+[22:51:27] [User Authenticator #3/INFO]: UUID of player Joa_Cac is 84eca734-2c0d-3155-bb7e-bffa1cc612ef
+[22:51:28] [Server thread/INFO]: Joa_Cac joined the game
+[22:51:28] [Server thread/INFO]: Joa_Cac[/127.206.143.98:58925] logged in with entity id 11142 at ([world]-300.34770381224115, 64.0, -1452.2203462989346)
+[22:51:36] [Async Chat Thread - #2/INFO]: [Not Secure] <NACHITOPRO898> espera wejeta
+[22:51:54] [Server thread/INFO]: NACHITOPRO898 issued server command: /home
+[22:52:30] [Server thread/INFO]: Joa_Cac issued server command: /sethome
+[22:52:46] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
+[22:53:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2513ms or 50 ticks behind
+[22:55:56] [User Authenticator #4/INFO]: UUID of player PepitosMini is 7c603449-99e0-3c6c-9ff1-5f1462be661b
+[22:55:57] [Server thread/INFO]: PepitosMini joined the game
+[22:55:57] [Server thread/INFO]: PepitosMini[/127.66.9.110:58709] logged in with entity id 16192 at ([world]1181.7637050918506, 63.875, 567.9291964869086)
+[22:56:15] [Server thread/INFO]: PepitosMini issued server command: /tpa 55
+[22:56:17] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[22:57:59] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
+[22:59:23] [Server thread/INFO]: j04c001 lost connection: Disconnected
+[22:59:23] [Server thread/INFO]: j04c001 left the game
+[22:59:25] [Server thread/INFO]: NACHITOPRO898 lost connection: Timed out
+[22:59:25] [Server thread/INFO]: NACHITOPRO898 left the game
+[22:59:33] [User Authenticator #5/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
+[22:59:34] [Server thread/INFO]: j04c001 joined the game
+[22:59:34] [Server thread/INFO]: j04c001[/127.213.11.19:60583] logged in with entity id 19815 at ([world_nether]177.50478483138016, 26.89498191141152, 39.1656327311241)
+[22:59:43] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
+[22:59:50] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
+[22:59:50] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[23:01:17] [Server thread/INFO]: Joa_Cac issued server command: /home
+[23:01:53] [User Authenticator #6/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
+[23:01:54] [Server thread/INFO]: NACHITOPRO898 joined the game
+[23:01:54] [Server thread/INFO]: NACHITOPRO898[/127.37.238.251:39923] logged in with entity id 21275 at ([world]1977.333402351381, -2.5, 855.8235723472794)
+[23:01:58] [Server thread/WARN]: 55maxx moved wrongly!
+[23:02:20] [Server thread/INFO]: Joa_Cac issued server command: /home
+[23:02:25] [Async Chat Thread - #4/INFO]: [Not Secure] <NACHITOPRO898> bada dogin : elmasiaplana culo
+[23:03:09] [Server thread/INFO]: Joa_Cac has made the advancement [Not Today, Thank You]
+[23:04:21] [Async Chat Thread - #5/INFO]: [Not Secure] <Joa_Cac> que paso
+[23:04:27] [Async Chat Thread - #6/INFO]: [Not Secure] <55maxx> pazo*
+[23:04:32] [Async Chat Thread - #6/INFO]: [Not Secure] <Joa_Cac> anda a la aldea y vas a ver
+[23:04:47] [Async Chat Thread - #5/INFO]: [Not Secure] <Joa_Cac> capaz
