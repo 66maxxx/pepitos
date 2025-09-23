@@ -383,3 +383,8 @@
 [05:11:46] [User Authenticator #11/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
 [05:11:47] [Server thread/INFO]: 55maxx joined the game
 [05:11:47] [Server thread/INFO]: 55maxx[/127.213.21.156:33569] logged in with entity id 82725 at ([world]1347.6782607231144, 63.0, 95.69307438936708)
+[05:28:37] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[05:28:37] [Server thread/INFO]: 55maxx left the game
+[05:28:41] [User Authenticator #12/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[05:28:42] [Server thread/INFO]: 55maxx joined the game
+[05:28:42] [Server thread/INFO]: 55maxx[/127.213.21.156:39741] logged in with entity id 85550 at ([world]1347.4283464142427, 63.0, 68.13927064632749)
