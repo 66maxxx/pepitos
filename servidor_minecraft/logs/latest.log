@@ -1,400 +1,80 @@
-[01:46:51] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[01:46:51] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[01:46:51] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:46:52] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[01:46:52] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[13:34:24] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[13:34:24] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[13:34:24] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[13:34:24] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[13:34:24] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - LoginSecurity (3.2.0), SetHome (6.2.3), SimpleTpa (7.9), SkinsRestorer (15.8.0)
-[01:46:57] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:46:59] [ServerMain/INFO]: Loaded 1407 recipes
-[01:46:59] [ServerMain/INFO]: Loaded 1520 advancements
-[01:46:59] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[01:47:00] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 375.1ms
-[01:47:00] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[01:47:00] [Server thread/INFO]: Loading properties
-[01:47:00] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[01:47:00] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:47:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:47:00] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:47:01] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[01:47:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[01:47:01] [Server thread/INFO]: Default game type: SURVIVAL
-[01:47:01] [Server thread/INFO]: Generating keypair
-[01:47:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:47:01] [Server thread/INFO]: Using epoll channel type
-[01:47:01] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:47:01] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[01:47:01] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.2.0
-[01:47:01] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.9
-[01:47:01] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
-[01:47:01] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
-[01:47:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:47:01] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
-[01:47:03] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[01:47:03] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:47:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:47:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:47:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:47:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:47:03] [Server thread/INFO]: Preparing level "world"
-[01:47:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:47:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:47:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:47:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:47:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:47:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:47:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:47:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
-[01:47:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
-[01:47:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:47:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:47:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:47:03] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:47:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:47:04] [Server thread/INFO]: Preparing spawn area: 0%
-[01:47:04] [Server thread/INFO]: Preparing spawn area: 10%
-[01:47:05] [Server thread/INFO]: Preparing spawn area: 63%
-[01:47:05] [Server thread/INFO]: Preparing spawn area: 65%
-[01:47:05] [Server thread/INFO]: Time elapsed: 1525 ms
-[01:47:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:47:05] [Server thread/INFO]: Preparing spawn area: 0%
-[01:47:06] [Server thread/INFO]: Preparing spawn area: 91%
-[01:47:06] [Server thread/INFO]: Time elapsed: 642 ms
-[01:47:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:47:06] [Server thread/INFO]: Preparing spawn area: 0%
-[01:47:06] [Server thread/INFO]: Preparing spawn area: 18%
-[01:47:07] [Server thread/INFO]: Time elapsed: 996 ms
-[01:47:07] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[01:47:07] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[01:47:07] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[01:47:07] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[01:47:07] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[01:47:07] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[01:47:07] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.9
-[01:47:07] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[01:47:07] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.9
-[01:47:07] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[01:47:07] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
-[01:47:07] [Server thread/INFO]: [spark] Starting background profiler...
-[01:47:08] [Server thread/INFO]: Done preparing level "world" (5.119s)
-[01:47:08] [Server thread/INFO]: Running delayed init tasks
-[01:47:08] [Server thread/INFO]: Done (19.495s)! For help, type "help"
-[01:47:50] [User Authenticator #0/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[01:47:50] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
-[01:47:52] [Server thread/INFO]: 55maxx joined the game
-[01:47:52] [Server thread/INFO]: 55maxx[/127.213.21.156:38671] logged in with entity id 102 at ([world]1340.492746684242, 63.1212968405392, 67.68358043289855)
-[01:47:54] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e8f9573d-1594-4d6e-b799-4d439b62d6f3, mapped to Bat['Bat'/236, uuid='e8f9573d-1594-4d6e-b799-4d439b62d6f3', l='ServerLevel[world]', x=1340.29, y=35.23, z=238.10, cpos=[83, 14], tl=0, v=true], can't add Bat['Bat'/270, uuid='e8f9573d-1594-4d6e-b799-4d439b62d6f3', l='ServerLevel[world]', x=1339.72, y=35.64, z=240.00, cpos=[83, 15], tl=0, v=false]
-[01:47:56] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 61453d97-9af0-4f54-a10f-36936889762a, mapped to Bat['Bat'/328, uuid='61453d97-9af0-4f54-a10f-36936889762a', l='ServerLevel[world]', x=1265.85, y=33.26, z=-79.64, cpos=[79, -5], tl=0, v=true], can't add Bat['Bat'/363, uuid='61453d97-9af0-4f54-a10f-36936889762a', l='ServerLevel[world]', x=1265.42, y=33.30, z=-81.85, cpos=[79, -6], tl=0, v=false]
-[01:47:56] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a0d89a4e-c7af-417c-9fa8-89dfcc22c543, mapped to Bat['Bat'/327, uuid='a0d89a4e-c7af-417c-9fa8-89dfcc22c543', l='ServerLevel[world]', x=1267.16, y=30.28, z=-77.95, cpos=[79, -5], tl=0, v=true], can't add Bat['Bat'/364, uuid='a0d89a4e-c7af-417c-9fa8-89dfcc22c543', l='ServerLevel[world]', x=1270.04, y=28.96, z=-80.57, cpos=[79, -6], tl=0, v=false]
-[01:47:57] [User Authenticator #0/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
-[01:47:57] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: c090c617-eb09-4ee9-ad6f-87d331a4badf, mapped to Bee['Bee'/357, uuid='c090c617-eb09-4ee9-ad6f-87d331a4badf', l='ServerLevel[world]', x=1342.04, y=65.02, z=-157.15, cpos=[83, -10], tl=0, v=true], can't add Bee['Bee'/405, uuid='c090c617-eb09-4ee9-ad6f-87d331a4badf', l='ServerLevel[world]', x=1345.01, y=64.00, z=-160.01, cpos=[84, -11], tl=0, v=false]
-[01:47:57] [Server thread/INFO]: NACHITOPRO898 joined the game
-[01:47:57] [Server thread/INFO]: NACHITOPRO898[/127.37.238.251:53043] logged in with entity id 390 at ([world]1378.6005358754894, 63.0, 51.77671267173685)
-[01:47:58] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 5a61e50f-68ce-43d0-8ac3-f320a145f9d8, mapped to Bee['Bee'/394, uuid='5a61e50f-68ce-43d0-8ac3-f320a145f9d8', l='ServerLevel[world]', x=1317.51, y=67.02, z=-151.51, cpos=[82, -10], tl=0, v=true], can't add Bee['Bee'/454, uuid='5a61e50f-68ce-43d0-8ac3-f320a145f9d8', l='ServerLevel[world]', x=1311.05, y=66.50, z=-160.01, cpos=[81, -11], tl=0, v=false]
-[01:48:01] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: db47e7c2-b1d9-47aa-950a-220b9596b2a4, mapped to Bat['Bat'/527, uuid='db47e7c2-b1d9-47aa-950a-220b9596b2a4', l='ServerLevel[world]', x=1583.75, y=43.51, z=-18.49, cpos=[98, -2], tl=0, v=true], can't add Bat['Bat'/538, uuid='db47e7c2-b1d9-47aa-950a-220b9596b2a4', l='ServerLevel[world]', x=1584.17, y=44.21, z=-18.54, cpos=[99, -2], tl=0, v=false]
-[01:50:17] [User Authenticator #1/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
-[01:50:18] [Server thread/INFO]: j04c001 joined the game
-[01:50:18] [Server thread/INFO]: j04c001[/127.213.11.19:34511] logged in with entity id 1905 at ([world]1370.0045296519017, 64.24918707874468, 97.16637834699709)
-[01:50:38] [User Authenticator #1/INFO]: UUID of player PepitosMini is 7c603449-99e0-3c6c-9ff1-5f1462be661b
-[01:50:39] [Server thread/INFO]: PepitosMini joined the game
-[01:50:39] [Server thread/INFO]: PepitosMini[/127.66.9.110:55975] logged in with entity id 2012 at ([world]-301.53272321314915, 64.0, -1449.1604573358843)
-[01:57:53] [Server thread/INFO]: j04c001 has made the advancement [Isn't It Iron Pick]
-[01:58:27] [Async Chat Thread - #0/INFO]: [Not Secure] <NACHITOPRO898> dame la tierra
-[01:58:34] [Async Chat Thread - #0/INFO]: [Not Secure] <NACHITOPRO898> no q no
-[01:58:37] [Async Chat Thread - #0/INFO]: [Not Secure] <NACHITOPRO898> dale
-[01:58:41] [Async Chat Thread - #0/INFO]: [Not Secure] <NACHITOPRO898> no seas asi
-[01:59:07] [Async Chat Thread - #0/INFO]: [Not Secure] <NACHITOPRO898> dale
-[01:59:11] [Async Chat Thread - #0/INFO]: [Not Secure] <NACHITOPRO898> dame la tierra
-[01:59:26] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
-[01:59:26] [Server thread/INFO]: NACHITOPRO898 left the game
-[01:59:36] [User Authenticator #2/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
-[01:59:37] [Server thread/INFO]: NACHITOPRO898 joined the game
-[01:59:37] [Server thread/INFO]: NACHITOPRO898[/127.37.238.251:49473] logged in with entity id 7098 at ([world]1475.0528598523595, 63.0, 58.11738557814063)
-[02:00:35] [Async Chat Thread - #2/INFO]: [Not Secure] <NACHITOPRO898> metete la tierra por el culo
-[02:00:36] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
-[02:00:36] [Server thread/INFO]: NACHITOPRO898 left the game
-[02:02:22] [User Authenticator #3/INFO]: UUID of player Joa_Cac is 84eca734-2c0d-3155-bb7e-bffa1cc612ef
-[02:02:24] [Server thread/INFO]: Joa_Cac joined the game
-[02:02:24] [Server thread/INFO]: Joa_Cac[/127.206.143.98:35575] logged in with entity id 8011 at ([world]-192.2778304330396, 20.0, -1612.5554877526663)
-[02:02:41] [Server thread/INFO]: Joa_Cac issued server command: /home
-[02:09:31] [Server thread/WARN]: 55maxx moved wrongly!
-[02:10:44] [User Authenticator #4/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
-[02:10:45] [Server thread/INFO]: NACHITOPRO898 joined the game
-[02:10:45] [Server thread/INFO]: NACHITOPRO898[/127.37.238.251:58451] logged in with entity id 12104 at ([world]1475.197823868231, 63.0, 66.6821532971302)
-[02:16:16] [Server thread/INFO]: Joa_Cac issued server command: /tpa 55maxx
-[02:16:17] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[02:17:58] [Server thread/INFO]: Joa_Cac issued server command: /home
-[02:18:06] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
-[02:18:07] [Server thread/INFO]: NACHITOPRO898 left the game
-[02:19:42] [User Authenticator #5/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
-[02:19:43] [Server thread/INFO]: NACHITOPRO898 joined the game
-[02:19:43] [Server thread/INFO]: NACHITOPRO898[/127.37.238.251:52237] logged in with entity id 16680 at ([world]1434.7864659383488, 63.0, 71.30000001192093)
-[02:41:34] [Server thread/INFO]: Villager Villager['Villager'/2038, uuid='bd0c6f84-3ad1-4959-b50a-ea762b07e08d', l='ServerLevel[world]', x=-312.30, y=55.58, z=-1484.30, cpos=[-20, -93], tl=61081, v=true] died, message: 'Villager was slain by Drowned'
-[02:41:53] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[02:41:54] [Server thread/INFO]: 55maxx left the game
-[02:58:10] [Async Chat Thread - #4/INFO]: [Not Secure] <NACHITOPRO898> j0
-[02:58:15] [Async Chat Thread - #4/INFO]: [Not Secure] <NACHITOPRO898> me ayuda sa aplanar
-[02:58:24] [Async Chat Thread - #4/INFO]: [Not Secure] <NACHITOPRO898> y te quiedas con la tierra?
-[03:01:28] [User Authenticator #6/INFO]: Disconnecting j04c001 (/127.199.195.209:43543): [LoginSecurity] This player is already online!
-[03:01:28] [User Authenticator #6/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
-[03:01:29] [Server thread/INFO]: j04c001 (/127.199.195.209:43543) lost connection: [LoginSecurity] This player is already online!
-[03:01:34] [User Authenticator #6/INFO]: Disconnecting j04c001 (/127.199.195.209:46713): [LoginSecurity] This player is already online!
-[03:01:34] [User Authenticator #6/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
-[03:01:34] [Server thread/INFO]: j04c001 (/127.199.195.209:46713) lost connection: [LoginSecurity] This player is already online!
-[03:01:34] [Server thread/INFO]: j04c001 lost connection: Timed out
-[03:01:34] [Server thread/INFO]: j04c001 left the game
-[03:01:37] [User Authenticator #6/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
-[03:01:38] [Server thread/INFO]: j04c001 joined the game
-[03:01:38] [Server thread/INFO]: j04c001[/127.199.195.209:39265] logged in with entity id 41260 at ([world]1340.5400769940582, 63.56620823175574, 134.17586377645887)
-[03:07:18] [User Authenticator #7/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[03:07:18] [Server thread/INFO]: 55maxx joined the game
-[03:07:18] [Server thread/INFO]: 55maxx[/127.213.21.156:51425] logged in with entity id 43570 at ([world]1363.1080347782288, 63.0, 83.83737749006922)
-[03:07:41] [Async Chat Thread - #6/INFO]: [Not Secure] <j04c001> 55maxx no se te escucha
-[03:07:44] [Async Chat Thread - #6/INFO]: [Not Secure] <j04c001> ds
-[03:11:52] [User Authenticator #8/INFO]: UUID of player focareborn is 15a9d3e2-110b-3d7d-b53b-942979256b43
-[03:11:53] [Server thread/INFO]: focareborn joined the game
-[03:11:53] [Server thread/INFO]: focareborn[/127.28.207.22:37847] logged in with entity id 45555 at ([world]-4.5, 67.0, 9.5)
-[03:12:48] [Server thread/INFO]: 55maxx issued server command: /skin villager
-[03:12:57] [Server thread/INFO]: j04c001 issued server command: /skin aldeano
-[03:13:03] [Async Chat Thread - #8/INFO]: [Not Secure] <55maxx> 7skin villager
-[03:13:06] [Server thread/INFO]: j04c001 issued server command: /skin chica anime
-[03:13:10] [Server thread/INFO]: focareborn issued server command: /skin villager
-[03:13:11] [Server thread/INFO]: j04c001 issued server command: /skin villager
-[03:13:21] [Server thread/INFO]: j04c001 issued server command: /skin villager
-[03:13:29] [Server thread/INFO]: j04c001 issued server command: /skin villager
-[03:13:47] [Server thread/INFO]: focareborn has made the advancement [We Need to Go Deeper]
-[03:23:14] [Server thread/INFO]: focareborn has made the advancement [Acquire Hardware]
-[03:23:17] [Server thread/INFO]: focareborn has made the advancement [Cover Me with Diamonds]
-[03:24:02] [Server thread/INFO]: Villager Villager['Fletcher'/123, uuid='cabba85e-cc5e-4295-867e-20a8a87a8a66', l='ServerLevel[world]', x=1388.67, y=63.00, z=98.64, cpos=[86, 6], tl=115366, v=true] died, message: 'Fletcher was slain by j04c001'
-[03:24:15] [Server thread/INFO]: focareborn has made the advancement [Suit Up]
-[03:24:20] [Server thread/INFO]: focareborn has made the advancement [Isn't It Iron Pick]
-[03:25:02] [Server thread/INFO]: focareborn was slain by NACHITOPRO898 using [MISHIFUZ]
-[03:25:07] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> 7back
-[03:25:09] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> ./back
-[03:25:10] [Server thread/INFO]: focareborn issued server command: /back
-[03:25:36] [Server thread/INFO]: Joa_Cac lost connection: Disconnected
-[03:25:36] [Server thread/INFO]: Joa_Cac left the game
-[03:25:55] [Server thread/INFO]: focareborn was slain by NACHITOPRO898 using [MISHIFUZ]
-[03:25:59] [Server thread/INFO]: focareborn issued server command: /back
-[03:26:28] [Server thread/INFO]: focareborn was slain by NACHITOPRO898 using [MISHIFUZ]
-[03:26:31] [Server thread/INFO]: focareborn issued server command: /back
-[03:26:58] [Server thread/INFO]: focareborn was slain by NACHITOPRO898 using [MISHIFUZ]
-[03:27:02] [Server thread/INFO]: focareborn issued server command: /back
-[03:29:51] [Server thread/INFO]: focareborn was slain by 55maxx
-[03:30:00] [Server thread/INFO]: PepitosMini issued server command: /tpa 55maxx
-[03:30:01] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[03:30:35] [Server thread/INFO]: PepitosMini issued server command: /back
-[03:31:10] [Server thread/INFO]: j04c001 issued server command: /skin hacker
-[03:31:25] [Server thread/INFO]: focareborn issued server command: /skin seal
-[03:31:31] [Server thread/INFO]: focareborn issued server command: /skin foca
-[03:31:50] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:31:54] [Server thread/INFO]: focareborn was slain by NACHITOPRO898 using [MISHIFUZ]
-[03:32:04] [Server thread/INFO]: focareborn issued server command: /skin foca
-[03:32:13] [Server thread/INFO]: 55maxx was slain by j04c001
-[03:33:09] [Server thread/INFO]: focareborn was slain by j04c001
-[03:33:42] [Server thread/INFO]: focareborn issued server command: /skin nigga
-[03:34:14] [Server thread/INFO]: 55maxx was slain by NACHITOPRO898 using [MISHIFUZ]
-[03:34:18] [Server thread/INFO]: focareborn was slain by NACHITOPRO898 using [MISHIFUZ]
-[03:34:39] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
-[03:34:39] [Server thread/INFO]: NACHITOPRO898 left the game
-[03:34:47] [Server thread/INFO]: focareborn issued server command: /skin random
-[03:34:48] [Server thread/INFO]: focareborn was slain by 55maxx
-[03:34:50] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:34:57] [Server thread/INFO]: 55maxx issued server command: /skin random
-[03:35:10] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:35:13] [Server thread/INFO]: 55maxx issued server command: /skin random
-[03:35:15] [Server thread/INFO]: 55maxx issued server command: /skin random
-[03:35:16] [Server thread/INFO]: focareborn issued server command: /skin random
-[03:35:18] [Server thread/INFO]: focareborn issued server command: /skin random
-[03:35:18] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:35:20] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:35:21] [Server thread/INFO]: j04c001 was slain by 55maxx
-[03:35:22] [Server thread/INFO]: focareborn was slain by 55maxx
-[03:35:31] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
-[03:35:33] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[03:35:34] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:35:58] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:36:26] [Server thread/INFO]: j04c001 was slain by focareborn
-[03:36:29] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:36:31] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
-[03:36:35] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[03:36:41] [Server thread/INFO]: focareborn issued server command: /skin random
-[03:36:41] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[03:37:03] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
-[03:37:04] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[03:37:17] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:37:18] [Server thread/INFO]: focareborn issued server command: /skin gawr gura
-[03:37:21] [Server thread/INFO]: focareborn issued server command: /skin gawrgura
-[03:37:27] [Server thread/INFO]: 55maxx issued server command: /random
-[03:37:32] [Server thread/INFO]: 55maxx issued server command: /skin random
-[03:37:33] [Server thread/INFO]: 55maxx issued server command: /skin random
-[03:37:34] [Server thread/INFO]: 55maxx issued server command: /skin random
-[03:37:35] [Server thread/INFO]: 55maxx issued server command: /skin random
-[03:37:36] [Server thread/INFO]: 55maxx issued server command: /skin random
-[03:37:37] [Server thread/INFO]: 55maxx issued server command: /skin random
-[03:37:38] [Server thread/INFO]: 55maxx issued server command: /skin random
-[03:37:40] [Server thread/INFO]: 55maxx issued server command: /skin random
-[03:37:41] [Server thread/INFO]: 55maxx issued server command: /skin random
-[03:37:41] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:37:42] [Server thread/INFO]: 55maxx issued server command: /skin random
-[03:37:42] [Server thread/INFO]: 55maxx issued server command: /skin random
-[03:37:43] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:37:44] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:37:46] [Server thread/INFO]: focareborn issued server command: /skin goblin
-[03:37:47] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:37:49] [Server thread/INFO]: focareborn issued server command: /skin goblin
-[03:37:49] [Server thread/INFO]: focareborn issued server command: /skin goblin
-[03:37:49] [Server thread/INFO]: focareborn issued server command: /skin goblin
-[03:37:50] [Server thread/INFO]: focareborn issued server command: /skin goblin
-[03:37:50] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:37:50] [Server thread/INFO]: focareborn issued server command: /skin goblin
-[03:37:50] [Server thread/INFO]: focareborn issued server command: /skin goblin
-[03:37:51] [Server thread/INFO]: focareborn issued server command: /skin gawrgura
-[03:37:53] [Server thread/INFO]: focareborn issued server command: /skin goblin
-[03:38:16] [Server thread/INFO]: 55maxx was slain by focareborn
-[03:38:28] [Server thread/INFO]: j04c001 was slain by focareborn
-[03:38:32] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
-[03:38:34] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:38:35] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[03:38:42] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved wrongly! 0.45582201094350694
-[03:38:42] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved wrongly! 0.7106141848869356
-[03:38:43] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved wrongly! 0.9483883969180624
-[03:38:43] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved wrongly! 1.1706762631627043
-[03:38:49] [Server thread/INFO]: 55maxx was slain by focareborn
-[03:38:51] [User Authenticator #9/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
-[03:38:52] [Server thread/INFO]: NACHITOPRO898 joined the game
-[03:38:52] [Server thread/INFO]: NACHITOPRO898[/127.37.238.251:52077] logged in with entity id 61851 at ([world]1416.077629694105, 63.0, 6.95010223146512)
-[03:39:00] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
-[03:39:00] [Server thread/INFO]: NACHITOPRO898 left the game
-[03:39:05] [Server thread/INFO]: j04c001 issued server command: /sethome
-[03:39:15] [User Authenticator #9/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
-[03:39:16] [Server thread/INFO]: NACHITOPRO898 joined the game
-[03:39:16] [Server thread/INFO]: NACHITOPRO898[/127.37.238.251:53019] logged in with entity id 62198 at ([world]1416.077629694105, 63.0, 6.95010223146512)
-[03:39:16] [Server thread/INFO]: j04c001 was slain by focareborn
-[03:39:34] [Server thread/INFO]: focareborn was slain by j04c001
-[03:39:37] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:39:46] [Server thread/INFO]: focareborn was slain by j04c001
-[03:39:52] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:40:12] [Server thread/INFO]: j04c001 was slain by focareborn
-[03:40:15] [Server thread/INFO]: focareborn issued server command: /skin tabaxi
-[03:40:17] [Server thread/INFO]: focareborn was slain by j04c001
-[03:40:20] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:40:23] [Server thread/INFO]: focareborn issued server command: /skin cat
-[03:40:49] [Server thread/INFO]: focareborn was slain by j04c001
-[03:40:56] [Server thread/INFO]: focareborn issued server command: /skin dragon
-[03:40:58] [Server thread/INFO]: j04c001 was slain by 55maxx
-[03:40:59] [Server thread/INFO]: focareborn was slain by 55maxx
-[03:41:12] [Server thread/INFO]: focareborn was slain by 55maxx
-[03:41:25] [Server thread/INFO]: focareborn was slain by 55maxx
-[03:42:04] [Server thread/INFO]: focareborn was slain by 55maxx
-[03:42:27] [Server thread/INFO]: focareborn was slain by 55maxx
-[03:42:54] [Server thread/INFO]: focareborn issued server command: /skin cat
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 18.484533835957563,0.0,-9.194234779745457
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 19.030501768885415,0.0,-9.552290233719077
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 19.576343070790017,0.0,-9.910624432102694
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 20.122115232147735,0.0,-10.269110824951852
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 20.66450511888388,0.0,-10.63265832336107
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 21.191649477836563,0.0,-11.01698118623328
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 21.707610333343155,0.0,-11.416147019410843
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 22.21746499525898,0.0,-11.823417115316445
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 22.72398567508685,0.0,-12.235112139185532
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 23.22868600048332,0.0,-12.649223174003296
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 23.72949843930337,0.0,-13.06808737714482
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 24.224261776381127,0.0,-13.49404242424849
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 24.71572230352399,0.0,-13.923869072605186
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 25.207353972056353,0.0,-14.353571686558993
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 25.699079083798324,0.0,-14.783206577720975
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 26.190855215538704,0.0,-15.212804492234312
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 26.6826592042014,0.0,-15.642382217495154
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 27.174478402745308,0.0,-16.071948919422837
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 27.666305905885565,0.0,-16.50150960260993
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! 20.477018445189515,0.0,-14.395688582211505
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! -24.71699948348828,0.0,16.48684911868901
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! -24.71699948348828,0.0,16.48684911868901
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! -24.71699948348828,0.0,16.48684911868901
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! -24.71699948348828,0.0,16.48684911868901
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! -24.71699948348828,0.0,16.48684911868901
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! -24.71699948348828,0.0,16.48684911868901
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! -24.71699948348828,0.0,16.48684911868901
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! -24.71699948348828,0.0,16.48684911868901
-[03:43:50] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! -24.71699948348828,0.0,16.48684911868901
-[03:43:51] [Server thread/WARN]: Horse (vehicle of PepitosMini) moved too quickly! -22.58553626096591,0.0,16.002676658694725
-[03:44:29] [User Authenticator #10/INFO]: Disconnecting PepitosMini (/127.66.9.110:47547): [LoginSecurity] This player is already online!
-[03:44:29] [User Authenticator #10/INFO]: UUID of player PepitosMini is 7c603449-99e0-3c6c-9ff1-5f1462be661b
-[03:44:29] [Server thread/INFO]: PepitosMini (/127.66.9.110:47547) lost connection: [LoginSecurity] This player is already online!
-[03:44:30] [Server thread/INFO]: PepitosMini lost connection: Timed out
-[03:44:30] [Server thread/INFO]: PepitosMini left the game
-[03:44:35] [User Authenticator #10/INFO]: UUID of player PepitosMini is 7c603449-99e0-3c6c-9ff1-5f1462be661b
-[03:44:36] [Server thread/INFO]: PepitosMini joined the game
-[03:44:36] [Server thread/INFO]: PepitosMini[/127.66.9.110:36729] logged in with entity id 65616 at ([world]1357.9285786500743, 63.84375002384186, 61.84734482106141)
-[03:44:46] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:44:56] [Server thread/INFO]: focareborn issued server command: /skin furry
-[03:45:04] [Server thread/INFO]: focareborn issued server command: /skin random
-[03:45:47] [Server thread/INFO]: focareborn was slain by NACHITOPRO898 using [MISHIFUZ]
-[03:45:53] [Server thread/INFO]: focareborn issued server command: /skin random
-[03:46:00] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:46:03] [Server thread/INFO]: 55maxx issued server command: /tpa NACHITOPRO898
-[03:46:05] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpaccept
-[03:46:18] [Server thread/INFO]: focareborn was slain by PepitosMini
-[03:46:42] [Server thread/INFO]: 55maxx issued server command: /home
-[03:46:52] [Server thread/INFO]: NACHITOPRO898 issued server command: /home
-[03:47:44] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpa 55maxx
-[03:47:45] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[03:48:02] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:48:03] [Server thread/INFO]: focareborn issued server command: /sethome
-[03:48:15] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[03:48:29] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:48:31] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:48:32] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:48:40] [Server thread/INFO]: focareborn was slain by PepitosMini
-[03:48:45] [Server thread/INFO]: focareborn issued server command: /skin random
-[03:50:20] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[03:50:38] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:50:49] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:51:31] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:52:48] [Async Chat Thread - #12/INFO]: [Not Secure] <55maxx> NO TOQUEN LOS NOTEBLOCK PUTITOS
-[03:53:43] [Server thread/INFO]: focareborn tried to swim in lava
-[03:53:56] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:57:59] [Server thread/INFO]: j04c001 issued server command: /skin random
-[03:58:26] [Server thread/INFO]: PepitosMini issued server command: /ba
-[03:58:32] [Async Chat Thread - #14/INFO]: [Not Secure] <PepitosMini> ./ban nachitopro898
-[03:58:36] [Server thread/INFO]: focareborn was slain by j04c001
-[03:59:27] [Server thread/INFO]: j04c001 issued server command: /tell focareborn estoy en una viejo pueblo abandonado y es el viejo oeste y llegas al bar donde hay bandidos
-[04:00:18] [Async Chat Thread - #15/INFO]: [Not Secure] <NACHITOPRO898> mate una bruja
-[04:03:56] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
-[04:03:56] [Server thread/INFO]: NACHITOPRO898 left the game
-[04:04:10] [Server thread/INFO]: focareborn was slain by 55maxx
-[04:06:36] [Server thread/INFO]: j04c001 lost connection: Disconnected
-[04:06:37] [Server thread/INFO]: j04c001 left the game
-[04:07:07] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> :'v
-[04:08:28] [Async Chat Thread - #18/INFO]: [Not Secure] <55maxx> diganle adios al lava chicken
-[04:09:35] [Async Chat Thread - #20/INFO]: [Not Secure] <55maxx> mis bloques
-[04:10:20] [Server thread/INFO]: focareborn lost connection: Disconnected
-[04:10:20] [Server thread/INFO]: focareborn left the game
-[04:10:44] [Async Chat Thread - #22/INFO]: [Not Secure] <PepitosMini> 55maxx
-[04:11:06] [Server thread/INFO]: PepitosMini lost connection: Disconnected
-[04:11:07] [Server thread/INFO]: PepitosMini left the game
-[04:21:47] [Server thread/INFO]: Villager Villager['Fletcher'/122, uuid='337fb112-0b99-46f2-b1ae-b77fc9e94f15', l='ServerLevel[world]', x=1382.30, y=63.00, z=89.69, cpos=[86, 5], tl=184673, v=true] died, message: 'Fletcher was slain by Zombie'
-[04:21:55] [Server thread/INFO]: Villager Villager['Fletcher'/121, uuid='0bebe50f-3ade-4885-abc4-5a21499822d1', l='ServerLevel[world]', x=1383.84, y=63.00, z=89.33, cpos=[86, 5], tl=184827, v=true] died, message: 'Fletcher was slain by Zombie'
-[04:22:08] [Server thread/INFO]: 55maxx issued server command: /home
-[04:35:55] [Async Chat Thread - #24/INFO]: [Not Secure] <55maxx> que
-[04:36:05] [Async Chat Thread - #24/INFO]: [Not Secure] <55maxx> que queres pepitos
-[05:11:41] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[05:11:41] [Server thread/INFO]: 55maxx left the game
-[05:11:46] [User Authenticator #11/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[05:11:47] [Server thread/INFO]: 55maxx joined the game
-[05:11:47] [Server thread/INFO]: 55maxx[/127.213.21.156:33569] logged in with entity id 82725 at ([world]1347.6782607231144, 63.0, 95.69307438936708)
-[05:28:37] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[05:28:37] [Server thread/INFO]: 55maxx left the game
-[05:28:41] [User Authenticator #12/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[05:28:42] [Server thread/INFO]: 55maxx joined the game
-[05:28:42] [Server thread/INFO]: 55maxx[/127.213.21.156:39741] logged in with entity id 85550 at ([world]1347.4283464142427, 63.0, 68.13927064632749)
-[06:11:50] [User Authenticator #13/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
-[06:11:51] [Server thread/INFO]: NACHITOPRO898 joined the game
-[06:11:51] [Server thread/INFO]: NACHITOPRO898[/127.37.238.251:36739] logged in with entity id 93300 at ([world]1450.4715737178701, 65.0, 118.9876584080518)
-[06:14:29] [Server thread/INFO]: NACHITOPRO898 issued server command: /home
-[06:21:48] [Async Chat Thread - #26/INFO]: [Not Secure] <NACHITOPRO898> bala kils xasi
-[06:22:00] [Async Chat Thread - #26/INFO]: [Not Secure] <55maxx> va lakensi?
-[06:28:25] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
-[06:28:25] [Server thread/INFO]: NACHITOPRO898 left the game
-[06:33:25] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[06:33:25] [Server thread/INFO]: 55maxx left the game
+[13:34:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:34:31] [ServerMain/INFO]: Loaded 1407 recipes
+[13:34:31] [ServerMain/INFO]: Loaded 1520 advancements
+[13:34:31] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[13:34:31] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 409.0ms
+[13:34:31] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[13:34:31] [Server thread/INFO]: Loading properties
+[13:34:31] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[13:34:31] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[13:34:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:34:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:34:32] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[13:34:32] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[13:34:32] [Server thread/INFO]: Default game type: SURVIVAL
+[13:34:32] [Server thread/INFO]: Generating keypair
+[13:34:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:34:33] [Server thread/INFO]: Using epoll channel type
+[13:34:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[13:34:33] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[13:34:33] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.2.0
+[13:34:33] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.9
+[13:34:33] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[13:34:33] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
+[13:34:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:34:33] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
+[13:34:34] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[13:34:34] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[13:34:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:34:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:34:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:34:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:34:34] [Server thread/INFO]: Preparing level "world"
+[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
+[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
+[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[13:34:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:34:35] [Server thread/INFO]: Preparing spawn area: 0%
+[13:34:35] [Server thread/INFO]: Preparing spawn area: 18%
+[13:34:36] [Server thread/INFO]: Time elapsed: 988 ms
+[13:34:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[13:34:36] [Server thread/INFO]: Preparing spawn area: 0%
+[13:34:36] [Server thread/INFO]: Time elapsed: 439 ms
+[13:34:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[13:34:36] [Server thread/INFO]: Preparing spawn area: 0%
+[13:34:36] [Server thread/INFO]: Time elapsed: 245 ms
+[13:34:36] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[13:34:36] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[13:34:36] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[13:34:37] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[13:34:37] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[13:34:37] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[13:34:37] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.9
+[13:34:37] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[13:34:37] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.9
+[13:34:37] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[13:34:37] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[13:34:37] [Server thread/INFO]: [spark] Starting background profiler...
+[13:34:37] [Server thread/INFO]: Done preparing level "world" (2.936s)
+[13:34:37] [Server thread/INFO]: Running delayed init tasks
+[13:34:37] [Server thread/INFO]: Done (14.265s)! For help, type "help"
+[13:36:56] [User Authenticator #0/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[13:36:56] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[13:36:59] [Server thread/INFO]: 55maxx joined the game
+[13:36:59] [Server thread/INFO]: 55maxx[/127.200.200.229:58343] logged in with entity id 221 at ([world]1336.860430372869, 63.0, 62.115857533130125)
