@@ -136,3 +136,8 @@
 [23:16:18] [Server thread/INFO]: j04c001 lost connection: Disconnected
 [23:16:18] [Server thread/INFO]: j04c001 left the game
 [23:16:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Mikecrack> lo hare
+[23:20:41] [Server thread/INFO]: 55maxx issued server command: /tpa Mikecrack
+[23:20:44] [Server thread/INFO]: Mikecrack issued server command: /tpaccept
+[23:21:01] [Server thread/INFO]: 55maxx issued server command: /home
+[23:21:50] [Server thread/INFO]: 55maxx issued server command: /seed
+[23:22:46] [Async Chat Thread - #2/INFO]: [Not Secure] <55maxx> 3168 60 1056
