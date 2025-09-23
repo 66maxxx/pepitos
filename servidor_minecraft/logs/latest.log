@@ -1,479 +1,85 @@
-[13:34:24] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[13:34:24] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[13:34:24] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[13:34:24] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[13:34:24] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[22:48:14] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[22:48:14] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[22:48:14] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:48:16] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[22:48:16] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - LoginSecurity (3.2.0), SetHome (6.2.3), SimpleTpa (7.9), SkinsRestorer (15.8.0)
-[13:34:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:34:31] [ServerMain/INFO]: Loaded 1407 recipes
-[13:34:31] [ServerMain/INFO]: Loaded 1520 advancements
-[13:34:31] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[13:34:31] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 409.0ms
-[13:34:31] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[13:34:31] [Server thread/INFO]: Loading properties
-[13:34:31] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[13:34:31] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[13:34:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:34:31] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:34:32] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[13:34:32] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[13:34:32] [Server thread/INFO]: Default game type: SURVIVAL
-[13:34:32] [Server thread/INFO]: Generating keypair
-[13:34:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:34:33] [Server thread/INFO]: Using epoll channel type
-[13:34:33] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[13:34:33] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[13:34:33] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.2.0
-[13:34:33] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.9
-[13:34:33] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
-[13:34:33] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
-[13:34:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:34:33] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
-[13:34:34] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[13:34:34] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[13:34:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:34:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:34:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:34:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:34:34] [Server thread/INFO]: Preparing level "world"
-[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
-[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
-[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[13:34:34] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[13:34:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:34:35] [Server thread/INFO]: Preparing spawn area: 0%
-[13:34:35] [Server thread/INFO]: Preparing spawn area: 18%
-[13:34:36] [Server thread/INFO]: Time elapsed: 988 ms
-[13:34:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[13:34:36] [Server thread/INFO]: Preparing spawn area: 0%
-[13:34:36] [Server thread/INFO]: Time elapsed: 439 ms
-[13:34:36] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[13:34:36] [Server thread/INFO]: Preparing spawn area: 0%
-[13:34:36] [Server thread/INFO]: Time elapsed: 245 ms
-[13:34:36] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[13:34:36] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[13:34:36] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[13:34:37] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[13:34:37] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[13:34:37] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[13:34:37] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.9
-[13:34:37] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[13:34:37] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.9
-[13:34:37] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[13:34:37] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
-[13:34:37] [Server thread/INFO]: [spark] Starting background profiler...
-[13:34:37] [Server thread/INFO]: Done preparing level "world" (2.936s)
-[13:34:37] [Server thread/INFO]: Running delayed init tasks
-[13:34:37] [Server thread/INFO]: Done (14.265s)! For help, type "help"
-[13:36:56] [User Authenticator #0/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[13:36:56] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
-[13:36:59] [Server thread/INFO]: 55maxx joined the game
-[13:36:59] [Server thread/INFO]: 55maxx[/127.200.200.229:58343] logged in with entity id 221 at ([world]1336.860430372869, 63.0, 62.115857533130125)
-[13:55:06] [User Authenticator #1/INFO]: Disconnecting 55maxx (/127.200.200.229:33321): [LoginSecurity] This player is already online!
-[13:55:06] [User Authenticator #1/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[13:55:06] [Server thread/INFO]: 55maxx (/127.200.200.229:33321) lost connection: [LoginSecurity] This player is already online!
-[13:55:11] [User Authenticator #1/INFO]: Disconnecting 55maxx (/127.200.200.229:51645): [LoginSecurity] This player is already online!
-[13:55:11] [User Authenticator #1/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[13:55:11] [Server thread/INFO]: 55maxx (/127.200.200.229:51645) lost connection: [LoginSecurity] This player is already online!
-[13:55:22] [User Authenticator #1/INFO]: Disconnecting 55maxx (/127.200.200.229:34497): [LoginSecurity] This player is already online!
-[13:55:22] [User Authenticator #1/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[13:55:22] [Server thread/INFO]: 55maxx (/127.200.200.229:34497) lost connection: [LoginSecurity] This player is already online!
-[13:55:24] [Server thread/INFO]: 55maxx was kicked due to keepalive timeout!
-[13:55:24] [Server thread/INFO]: 55maxx lost connection: Timed out
-[13:55:24] [Server thread/INFO]: 55maxx left the game
-[13:55:26] [User Authenticator #1/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[13:55:27] [Server thread/INFO]: 55maxx joined the game
-[13:55:27] [Server thread/INFO]: 55maxx[/127.200.200.229:36459] logged in with entity id 3560 at ([world]1345.4910988550675, 63.66525310534071, 69.37249802287714)
-[14:00:51] [Server thread/INFO]: 55maxx issued server command: /home
-[14:13:01] [User Authenticator #2/INFO]: UUID of player focareborn is 15a9d3e2-110b-3d7d-b53b-942979256b43
-[14:13:02] [Server thread/INFO]: focareborn joined the game
-[14:13:02] [Server thread/INFO]: focareborn[/127.142.249.95:34149] logged in with entity id 6950 at ([world]1324.7510750846527, 63.0, 49.55514935630249)
-[14:13:15] [Server thread/INFO]: focareborn issued server command: /skin random
-[14:17:40] [Server thread/INFO]: focareborn lost connection: Disconnected
-[14:17:40] [Server thread/INFO]: focareborn left the game
-[14:19:37] [User Authenticator #3/INFO]: UUID of player focareborn is 15a9d3e2-110b-3d7d-b53b-942979256b43
-[14:19:38] [Server thread/INFO]: focareborn joined the game
-[14:19:38] [Server thread/INFO]: focareborn[/127.142.249.95:60247] logged in with entity id 7998 at ([world]1341.170366170575, 63.0, 69.10390776116174)
-[14:20:32] [Server thread/INFO]: focareborn has made the advancement [Monster Hunter]
-[14:21:40] [Server thread/INFO]: focareborn has made the advancement [Stone Age]
-[14:22:35] [Server thread/INFO]: focareborn has made the advancement [Diamonds!]
-[14:22:39] [Server thread/INFO]: 55maxx was slain by Zombie
-[14:25:43] [Server thread/INFO]: focareborn issued server command: /home
-[14:31:11] [Server thread/INFO]: 55maxx issued server command: /tpa focareborn
-[14:31:15] [Server thread/INFO]: focareborn issued server command: /tpaccept
-[14:31:48] [Server thread/INFO]: focareborn has reached the goal [Sky's the Limit]
-[14:32:01] [Server thread/INFO]: focareborn fell off scaffolding
-[14:32:06] [Server thread/INFO]: focareborn issued server command: /back
-[14:32:20] [Server thread/INFO]: 55maxx issued server command: /home
-[14:35:25] [Server thread/INFO]: 55maxx issued server command: /tpa focareborn
-[14:35:28] [Server thread/INFO]: focareborn issued server command: /tpaccept
-[14:35:53] [Server thread/INFO]: 55maxx issued server command: /home
-[14:38:29] [Server thread/INFO]: 55maxx was shot by Skeleton
-[14:38:32] [Server thread/INFO]: 55maxx issued server command: /back
-[14:43:14] [Server thread/INFO]: focareborn fell off scaffolding
-[14:43:18] [Server thread/INFO]: focareborn issued server command: /back
-[14:44:06] [Server thread/INFO]: focareborn issued server command: /tpa 55maxx
-[14:44:08] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[14:46:24] [Async Chat Thread - #1/INFO]: [Not Secure] <55maxx> 2075 25 18
-[14:46:33] [Server thread/INFO]: 55maxx issued server command: /tp @s 2071 16.5 28
-[14:46:33] [Server thread/INFO]: [55maxx: Teleported 55maxx to 2071.500000, 16.500000, 28.500000]
-[14:46:41] [Server thread/INFO]: focareborn issued server command: /tpa 55maxx
-[14:46:42] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[14:46:48] [Server thread/INFO]: focareborn has made the advancement [Eye Spy]
-[14:46:53] [Server thread/INFO]: focareborn has made the advancement [The End?]
-[14:47:08] [Server thread/INFO]: focareborn has made the advancement [Remote Getaway]
-[14:47:16] [User Authenticator #4/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
-[14:47:18] [Server thread/INFO]: j04c001 joined the game
-[14:47:18] [Server thread/INFO]: j04c001[/127.199.195.209:52319] logged in with entity id 17627 at ([world]1383.8541328070048, 64.5625, 91.53693407983779)
-[14:47:49] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
-[14:47:50] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[14:47:58] [Server thread/INFO]: j04c001 has made the advancement [Eye Spy]
-[14:48:13] [Server thread/INFO]: j04c001 has made the advancement [The End?]
-[14:52:15] [Server thread/INFO]: 55maxx issued server command: /tp @s 2071 16.5 28
-[14:52:15] [Server thread/INFO]: [55maxx: Teleported 55maxx to 2071.500000, 16.500000, 28.500000]
-[14:52:18] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
-[14:52:20] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[14:52:32] [Server thread/INFO]: j04c001 issued server command: /skin random
-[14:54:12] [Server thread/INFO]: 55maxx issued server command: /home
-[14:54:23] [Server thread/INFO]: 55maxx issued server command: /tp @s 2071 16.5 28
-[14:54:23] [Server thread/INFO]: [55maxx: Teleported 55maxx to 2071.500000, 16.500000, 28.500000]
-[14:54:24] [Server thread/WARN]: 55maxx moved wrongly!
-[14:55:46] [Server thread/INFO]: j04c001 issued server command: /skin random
-[14:56:00] [Server thread/INFO]: 55maxx issued server command: /home
-[14:56:22] [Async Chat Thread - #2/INFO]: [Not Secure] <55maxx> papa mono
-[14:57:32] [Server thread/INFO]: focareborn lost connection: Disconnected
-[14:57:32] [Server thread/INFO]: focareborn left the game
-[14:58:37] [Server thread/INFO]: j04c001 lost connection: Disconnected
-[14:58:37] [Server thread/INFO]: j04c001 left the game
-[15:03:37] [User Authenticator #5/INFO]: UUID of player focareborn is 15a9d3e2-110b-3d7d-b53b-942979256b43
-[15:03:38] [Server thread/INFO]: focareborn joined the game
-[15:03:38] [Server thread/INFO]: focareborn[/127.142.249.95:38153] logged in with entity id 27364 at ([world_the_end]913.576260509395, 64.0, 652.1281222761834)
-[15:03:53] [Async Chat Thread - #4/INFO]: [Not Secure] <55maxx> 2075 25 18
-[15:06:27] [Server thread/INFO]: 55maxx issued server command: /tp @s 2071 16.5 28
-[15:06:27] [Server thread/INFO]: [55maxx: Teleported 55maxx to 2071.500000, 16.500000, 28.500000]
-[15:06:42] [Server thread/INFO]: 55maxx issued server command: /home
-[15:08:11] [Server thread/INFO]: focareborn has made the advancement [The City at the End of the Game]
-[15:08:16] [Server thread/INFO]: focareborn has made the advancement [Local Brewery]
-[15:09:31] [User Authenticator #6/INFO]: UUID of player j04cc001 is e7a0229a-963a-3207-9173-be3e8c55d200
-[15:09:33] [Server thread/INFO]: j04cc001 joined the game
-[15:09:33] [Server thread/INFO]: j04cc001[/127.199.195.209:36219] logged in with entity id 33714 at ([world]1345.795154543114, 68.5, 68.81941299446224)
-[15:09:35] [Server thread/INFO]: 55maxx issued server command: /tpa focareborn
-[15:09:40] [Server thread/INFO]: focareborn issued server command: /tpaccept
-[15:09:48] [Server thread/INFO]: j04cc001 lost connection: Disconnected
-[15:09:48] [Server thread/INFO]: j04cc001 left the game
-[15:10:06] [Server thread/INFO]: 55maxx issued server command: /home
-[15:10:28] [User Authenticator #6/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
-[15:10:29] [Server thread/INFO]: j04c001 joined the game
-[15:10:29] [Server thread/INFO]: j04c001[/127.199.195.209:57721] logged in with entity id 34248 at ([world]1248.844036688257, 67.0, 128.94996131686943)
-[15:11:45] [Server thread/WARN]: focareborn moved wrongly!
-[15:15:23] [Server thread/INFO]: focareborn issued server command: /home
-[15:15:41] [Server thread/INFO]: j04c001 issued server command: /skin random
-[15:15:54] [Server thread/INFO]: 55maxx issued server command: /skin venom
-[15:15:59] [Server thread/INFO]: 55maxx issued server command: /skin venom1
-[15:16:02] [Server thread/INFO]: 55maxx issued server command: /skin venom
-[15:16:07] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:19] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:24] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:25] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:26] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:26] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:28] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:33] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:35] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:36] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:38] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:39] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:40] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:41] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:42] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:42] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:43] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:44] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:45] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:47] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:47] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:49] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:16:51] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:17:00] [Server thread/INFO]: focareborn has made the advancement [Voluntary Exile]
-[15:17:06] [Server thread/INFO]: focareborn was shot by Pillager
-[15:17:22] [Server thread/INFO]: focareborn was shot by Pillager
-[15:18:34] [Server thread/INFO]: j04c001 lost connection: Disconnected
-[15:18:34] [Server thread/INFO]: j04c001 left the game
-[15:18:53] [Server thread/INFO]: 55maxx issued server command: /tpa focareborn
-[15:18:55] [Server thread/INFO]: focareborn issued server command: /tpaccept
-[15:20:03] [User Authenticator #7/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
-[15:20:04] [Server thread/INFO]: j04c001 joined the game
-[15:20:04] [Server thread/INFO]: j04c001[/127.199.195.209:44771] logged in with entity id 37823 at ([world]1349.237500011921, 63.0, 76.20954721520351)
-[15:20:09] [Server thread/INFO]: j04c001 issued server command: /skin random
-[15:28:30] [Server thread/INFO]: j04c001 was slain by Zombie
-[15:28:35] [Async Chat Thread - #6/INFO]: [Not Secure] <55maxx> ay
-[15:28:58] [Server thread/INFO]: focareborn was slain by Vex
-[15:29:00] [Async Chat Thread - #6/INFO]: [Not Secure] <j04c001> w
-[15:29:02] [Server thread/INFO]: focareborn issued server command: /back
-[15:32:04] [Server thread/INFO]: focareborn was slain by Vex
-[15:32:07] [Server thread/INFO]: focareborn issued server command: /back
-[15:32:30] [Server thread/INFO]: focareborn was slain by Vex
-[15:32:33] [Server thread/INFO]: focareborn issued server command: /back
-[15:32:47] [Server thread/INFO]: focareborn was slain by Vex
-[15:32:49] [Server thread/INFO]: focareborn issued server command: /back
-[15:33:09] [Server thread/INFO]: j04c001 issued server command: /skin random
-[15:33:17] [Server thread/INFO]: 55maxx was slain by Vex
-[15:33:20] [Server thread/INFO]: 55maxx issued server command: /back
-[15:33:35] [User Authenticator #8/INFO]: Disconnecting j04c001 (/127.186.198.133:37537): [LoginSecurity] This player is already online!
-[15:33:35] [User Authenticator #8/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
-[15:33:35] [Server thread/INFO]: j04c001 (/127.186.198.133:37537) lost connection: [LoginSecurity] This player is already online!
-[15:33:41] [Server thread/INFO]: j04c001 lost connection: Timed out
-[15:33:41] [Server thread/INFO]: j04c001 left the game
-[15:33:47] [Server thread/INFO]: focareborn was slain by Vex
-[15:33:48] [User Authenticator #8/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
-[15:33:49] [Server thread/INFO]: j04c001 joined the game
-[15:33:49] [Server thread/INFO]: j04c001[/127.186.198.133:38349] logged in with entity id 44703 at ([world]1317.7498852946978, 63.0, 83.8527394291313)
-[15:33:50] [Server thread/INFO]: focareborn issued server command: /back
-[15:33:57] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
-[15:34:16] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
-[15:34:18] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[15:34:40] [Server thread/INFO]: j04c001 has completed the challenge [Hero of the Village]
-[15:34:40] [Server thread/INFO]: focareborn has completed the challenge [Hero of the Village]
-[15:34:41] [Server thread/INFO]: focareborn was slain by Vex
-[15:34:43] [Server thread/INFO]: focareborn issued server command: /back
-[15:35:12] [Server thread/INFO]: focareborn was slain by Vex
-[15:35:14] [Server thread/INFO]: focareborn issued server command: /back
-[15:36:11] [Server thread/INFO]: 55maxx issued server command: /home
-[15:37:24] [Server thread/INFO]: focareborn has made the advancement [Hidden in the Depths]
-[15:38:13] [Server thread/INFO]: j04c001 issued server command: /home
-[15:38:18] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[15:40:51] [Server thread/INFO]: j04c001 issued server command: /home
-[15:42:53] [Server thread/INFO]: focareborn issued server command: /home
-[15:43:23] [Server thread/INFO]: 55maxx issued server command: /home
-[15:43:33] [Server thread/INFO]: j04c001 has reached the goal [Sky's the Limit]
-[15:44:18] [Server thread/INFO]: j04c001 issued server command: /skin random
-[15:44:19] [Server thread/INFO]: 55maxx issued server command: /tp @s 2071 16.5 28
-[15:44:19] [Server thread/INFO]: [55maxx: Teleported 55maxx to 2071.500000, 16.500000, 28.500000]
-[15:44:24] [Server thread/INFO]: 55maxx issued server command: /home
-[15:44:34] [Server thread/INFO]: 55maxx issued server command: /tp @s 2071 16.5 28
-[15:44:34] [Server thread/INFO]: [55maxx: Teleported 55maxx to 2071.500000, 16.500000, 28.500000]
-[15:44:37] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
-[15:44:42] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[15:45:08] [Server thread/INFO]: j04c001 has made the advancement [Remote Getaway]
-[15:45:40] [Server thread/INFO]: 55maxx issued server command: /skin random
-[15:45:50] [Server thread/INFO]: focareborn has reached the goal [Postmortal]
-[15:51:34] [Server thread/INFO]: j04c001 issued server command: /sethome
-[15:51:36] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
-[15:51:38] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[15:52:13] [Server thread/INFO]: focareborn issued server command: /home
-[15:55:06] [Server thread/INFO]: j04c001 issued server command: /skin random
-[15:55:07] [Server thread/INFO]: focareborn has completed the challenge [Cover Me in Debris]
-[15:55:17] [Server thread/INFO]: j04c001 issued server command: /skin random
-[15:56:44] [Server thread/INFO]: focareborn was slain by j04c001
-[15:56:54] [Server thread/INFO]: j04c001 issued server command: /skin random
-[15:58:37] [Server thread/INFO]: j04c001 lost connection: Disconnected
-[15:58:37] [Server thread/INFO]: j04c001 left the game
-[16:01:21] [Server thread/INFO]: focareborn lost connection: Disconnected
-[16:01:21] [Server thread/INFO]: focareborn left the game
-[16:08:32] [User Authenticator #9/INFO]: UUID of player Sdoke is d789bda8-213f-3c83-9f41-a533ac0da8c0
-[16:08:36] [Server thread/INFO]: Sdoke joined the game
-[16:08:36] [Server thread/INFO]: Sdoke[/127.163.72.92:39001] logged in with entity id 76724 at ([world]3412.1118183043595, 63.0, -11074.793715416901)
-[16:08:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3426ms or 68 ticks behind
-[16:08:54] [Server thread/INFO]: Villager Villager['Librarian'/76852, uuid='e772dd52-ff98-4a40-82dc-64649b5fcb1f', l='ServerLevel[world]', x=3370.30, y=59.00, z=-11081.70, cpos=[210, -693], tl=161, v=true] died, message: 'Librarian suffocated in a wall'
-[16:08:56] [Server thread/INFO]: Villager Villager['Librarian'/76853, uuid='a7371f33-5c30-4c98-83ce-aca67814b9a5', l='ServerLevel[world]', x=3372.61, y=59.00, z=-11081.61, cpos=[210, -693], tl=191, v=true] died, message: 'Librarian suffocated in a wall'
-[16:08:56] [Server thread/INFO]: Villager Villager['Librarian'/76854, uuid='520ce550-32ff-4c47-9f88-fcde13b0f87c', l='ServerLevel[world]', x=3374.49, y=59.00, z=-11081.34, cpos=[210, -693], tl=191, v=true] died, message: 'Librarian suffocated in a wall'
-[16:08:56] [Server thread/INFO]: Villager Villager['Fletcher'/76857, uuid='7704cd01-8a94-4b27-a289-35c7c58b4b5b', l='ServerLevel[world]', x=3368.73, y=59.00, z=-11073.07, cpos=[210, -693], tl=191, v=true] died, message: 'Fletcher suffocated in a wall'
-[16:08:56] [Server thread/INFO]: Villager Villager['Fletcher'/76858, uuid='5877f53e-765e-4f09-b963-b30f5575e40b', l='ServerLevel[world]', x=3373.71, y=59.00, z=-11079.44, cpos=[210, -693], tl=191, v=true] died, message: 'Fletcher suffocated in a wall'
-[16:08:56] [Server thread/INFO]: Villager Villager['Fletcher'/76859, uuid='43c5d254-04f8-405f-b569-19541089d238', l='ServerLevel[world]', x=3372.75, y=59.00, z=-11078.83, cpos=[210, -693], tl=191, v=true] died, message: 'Fletcher suffocated in a wall'
-[16:08:58] [Server thread/INFO]: Villager Villager['Librarian'/76875, uuid='f8fcf02f-8adb-46cb-ba38-1e845a8af37c', l='ServerLevel[world]', x=3370.30, y=59.00, z=-11067.30, cpos=[210, -692], tl=171, v=true] died, message: 'Librarian suffocated in a wall'
-[16:08:59] [Server thread/INFO]: Villager Villager['Librarian'/76874, uuid='7a85ecd6-c5d5-405f-9aa5-38fd06dfd395', l='ServerLevel[world]', x=3368.30, y=59.00, z=-11067.30, cpos=[210, -692], tl=191, v=true] died, message: 'Librarian suffocated in a wall'
-[16:08:59] [Server thread/INFO]: Villager Villager['Fletcher'/76876, uuid='87d768d9-7766-4140-a42c-42042428e097', l='ServerLevel[world]', x=3374.49, y=59.00, z=-11067.66, cpos=[210, -692], tl=191, v=true] died, message: 'Fletcher suffocated in a wall'
-[16:08:59] [Server thread/INFO]: Villager Villager['Villager'/76877, uuid='86b3dc10-366a-454e-bcec-645c73a7c5f1', l='ServerLevel[world]', x=3368.34, y=59.00, z=-11071.86, cpos=[210, -692], tl=191, v=true] died, message: 'Villager suffocated in a wall'
-[16:09:14] [Server thread/INFO]: Sdoke issued server command: /home
-[16:09:16] [Async Chat Thread - #8/INFO]: [Not Secure] <Sdoke> que
-[16:09:20] [Async Chat Thread - #8/INFO]: [Not Secure] <Sdoke> que le paso al mundo??
-[16:09:21] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> q
-[16:09:29] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> de que
-[16:09:33] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> no tengo nada
-[16:09:35] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> como
-[16:09:39] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> mi base no esta
-[16:09:43] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> nada
-[16:09:45] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> e
-[16:09:53] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> te juro
-[16:10:04] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> mira
-[16:10:06] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> manda tp
-[16:10:07] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> el mundo sigue igual
-[16:10:07] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> a
-[16:10:09] [Server thread/INFO]: 55maxx issued server command: /tpa Sdoke
-[16:10:12] [Server thread/INFO]: Sdoke issued server command: /tpaccept
-[16:10:24] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> q
-[16:10:33] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> no habia nada
-[16:10:35] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> q carajos
-[16:10:39] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> amigo wtf
-[16:10:47] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> el mundo no soporto tanta aura
-[16:10:51] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> JAJKAJK
-[16:10:53] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> q wacho
-[16:10:54] [Server thread/INFO]: 55maxx issued server command: /home
-[16:11:00] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> bro si hacen otro avisen uwu
-[16:11:04] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> okey
-[16:11:06] [Server thread/INFO]: Sdoke lost connection: Disconnected
-[16:11:06] [Server thread/INFO]: Sdoke left the game
-[16:26:01] [Server thread/INFO]: 55maxx has completed the challenge [Hot Tourist Destinations]
-[16:26:27] [Server thread/INFO]: 55maxx has completed the challenge [Return to Sender]
-[16:27:54] [Server thread/INFO]: 55maxx issued server command: /home
-[16:37:36] [Server thread/INFO]: 55maxx issued server command: /give 55maxx minecraft:snow_block 64
-[16:37:36] [Server thread/INFO]: [55maxx: Gave 64 [Snow Block] to 55maxx]
-[16:47:02] [Server thread/INFO]: [55maxx: Set own game mode to Creative Mode]
-[16:47:06] [Server thread/INFO]: [55maxx: Set own game mode to Survival Mode]
-[17:01:39] [Server thread/INFO]: 55maxx issued server command: /tp @s 2071 16.5 28
-[17:01:39] [Server thread/INFO]: [55maxx: Teleported 55maxx to 2071.500000, 16.500000, 28.500000]
-[17:01:40] [Server thread/WARN]: 55maxx moved wrongly!
-[17:01:41] [Server thread/WARN]: 55maxx moved wrongly!
-[17:01:51] [Server thread/INFO]: 55maxx issued server command: /home
-[17:10:28] [Server thread/INFO]: [55maxx: Set own game mode to Creative Mode]
-[17:11:01] [Server thread/INFO]: [55maxx: Set own game mode to Survival Mode]
-[17:12:15] [Server thread/WARN]: 55maxx moved wrongly!
-[17:39:50] [Server thread/INFO]: [55maxx: Set own game mode to Creative Mode]
-[17:40:01] [Server thread/INFO]: [55maxx: Set own game mode to Adventure Mode]
-[17:40:02] [Server thread/INFO]: [55maxx: Set own game mode to Survival Mode]
-[17:40:52] [Server thread/INFO]: [55maxx: Set own game mode to Adventure Mode]
-[17:40:53] [Server thread/INFO]: [55maxx: Set own game mode to Survival Mode]
-[17:40:54] [Server thread/INFO]: [55maxx: Set own game mode to Creative Mode]
-[17:40:58] [Server thread/INFO]: [55maxx: Set own game mode to Survival Mode]
-[17:45:51] [User Authenticator #10/INFO]: UUID of player Sdoke is d789bda8-213f-3c83-9f41-a533ac0da8c0
-[17:45:53] [Server thread/INFO]: Sdoke joined the game
-[17:45:53] [Server thread/INFO]: Sdoke[/127.163.72.92:42413] logged in with entity id 127155 at ([world]3399.4929374798758, 64.5, -11083.74725740316)
-[17:45:56] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> ola
-[17:46:11] [Async Chat Thread - #10/INFO]: [Not Secure] <Sdoke> hola
-[17:46:17] [Async Chat Thread - #10/INFO]: [Not Secure] <Sdoke> pense que podria llegar a ser un bug
-[17:46:20] [Async Chat Thread - #10/INFO]: [Not Secure] <Sdoke> pero no...
-[17:46:24] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> q paja
-[17:46:30] [Async Chat Thread - #10/INFO]: [Not Secure] <Sdoke> lit
-[17:46:34] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> re raro igual
-[17:46:41] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> pq nosotros seguimos con el mundo igual
-[17:46:42] [Async Chat Thread - #10/INFO]: [Not Secure] <Sdoke> capaz porque me fui lejos
-[17:46:48] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> ni idea
-[17:46:54] [Server thread/INFO]: Sdoke issued server command: /tpa 55maxx
-[17:46:55] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> y q vas a hacer
-[17:46:56] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[17:46:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Sdoke> ehh no se
-[17:47:06] [Async Chat Thread - #10/INFO]: [Not Secure] <Sdoke> me puedo ir con ustedes y no molesto?
-[17:47:09] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> sisi
-[17:47:10] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> si queres
-[17:47:13] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> quedate el otro cuadrado aquel
-[17:47:23] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> se lo iba a quedar alex
-[17:47:25] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> dejo sus cosas ahi
-[17:47:25] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> pero
-[17:47:26] [Async Chat Thread - #11/INFO]: [Not Secure] <Sdoke> okey bro
-[17:47:27] [Async Chat Thread - #11/INFO]: [Not Secure] <55maxx> ni entra el
-[17:47:29] [Async Chat Thread - #11/INFO]: [Not Secure] <Sdoke> okey
-[17:47:32] [Async Chat Thread - #11/INFO]: [Not Secure] <Sdoke> gracias
-[17:47:39] [Async Chat Thread - #11/INFO]: [Not Secure] <55maxx> de nada papu
-[17:50:20] [Async Chat Thread - #12/INFO]: [Not Secure] <Sdoke> tienen comida o hornos?
-[17:50:23] [Async Chat Thread - #12/INFO]: [Not Secure] <55maxx> eee
-[17:50:26] [Async Chat Thread - #12/INFO]: [Not Secure] <55maxx> en mis cofres capaz
-[17:50:31] [Async Chat Thread - #12/INFO]: [Not Secure] <55maxx> estamos re pobres de comida
-[17:50:41] [Async Chat Thread - #12/INFO]: [Not Secure] <55maxx> desde que santi quito sus cultivos..
-[17:50:42] [Async Chat Thread - #12/INFO]: [Not Secure] <Sdoke> yo tenia 2 stacks de carne
-[17:50:45] [Async Chat Thread - #12/INFO]: [Not Secure] <Sdoke> pero en los cofres
-[17:50:49] [Async Chat Thread - #12/INFO]: [Not Secure] <55maxx> la pior
-[17:50:55] [Async Chat Thread - #12/INFO]: [Not Secure] <Sdoke> en una rato entro una vez
-[17:50:58] [Async Chat Thread - #12/INFO]: [Not Secure] <Sdoke> voy al skibidi
-[17:50:59] [Server thread/INFO]: Sdoke lost connection: Disconnected
-[17:50:59] [Server thread/INFO]: Sdoke left the game
-[17:51:00] [Async Chat Thread - #12/INFO]: [Not Secure] <55maxx> dale
-[17:51:01] [Async Chat Thread - #12/INFO]: [Not Secure] <55maxx> JAJAJ
-[18:09:29] [Server thread/WARN]: 55maxx moved wrongly!
-[18:11:42] [Server thread/INFO]: [55maxx: Set own game mode to Creative Mode]
-[18:11:47] [Server thread/INFO]: [55maxx: Set own game mode to Survival Mode]
-[18:13:13] [User Authenticator #11/INFO]: UUID of player Sdoke is d789bda8-213f-3c83-9f41-a533ac0da8c0
-[18:13:15] [Server thread/INFO]: Sdoke joined the game
-[18:13:15] [Server thread/INFO]: Sdoke[/127.163.72.92:34305] logged in with entity id 134177 at ([world]1346.9334159440814, 63.0, 73.69743265904216)
-[18:13:33] [Async Chat Thread - #14/INFO]: [Not Secure] <Sdoke> hola
-[18:13:35] [Async Chat Thread - #14/INFO]: [Not Secure] <55maxx> ol
-[18:13:58] [Async Chat Thread - #14/INFO]: [Not Secure] <Sdoke> y porque hiciste todo esto?
-[18:14:02] [Async Chat Thread - #14/INFO]: [Not Secure] <55maxx> q cosa
-[18:14:02] [Async Chat Thread - #14/INFO]: [Not Secure] <Sdoke> dividir en 4
-[18:14:12] [Async Chat Thread - #14/INFO]: [Not Secure] <55maxx> pq vivo con joaco y nachito tmb
-[18:14:15] [Async Chat Thread - #14/INFO]: [Not Secure] <55maxx> cada uno en un cuadrado
-[18:14:22] [Async Chat Thread - #14/INFO]: [Not Secure] <Sdoke> ahh
-[18:14:34] [Async Chat Thread - #14/INFO]: [Not Secure] <55maxx> al principio iba a ser solo con santi
-[18:14:41] [Async Chat Thread - #14/INFO]: [Not Secure] <55maxx> pero se fue a otro lado y ta
-[18:15:05] [Async Chat Thread - #14/INFO]: [Not Secure] <Sdoke> y hectorcorridostumbados no entro mas
-[18:15:12] [Async Chat Thread - #14/INFO]: [Not Secure] <55maxx> entro ayer un rato
-[18:15:16] [Async Chat Thread - #14/INFO]: [Not Secure] <55maxx> pero despues se fue a dormir
-[18:15:22] [Async Chat Thread - #14/INFO]: [Not Secure] <Sdoke> pendejo no dura nada
-[18:15:32] [Async Chat Thread - #14/INFO]: [Not Secure] <55maxx> SAJKASKJ
-[18:17:37] [Server thread/INFO]: Sdoke lost connection: Disconnected
-[18:17:37] [Server thread/INFO]: Sdoke left the game
-[18:33:43] [Server thread/INFO]: [55maxx: Set own game mode to Creative Mode]
-[18:33:49] [Server thread/INFO]: [55maxx: Set own game mode to Survival Mode]
-[18:37:29] [Server thread/INFO]: [55maxx: Set own game mode to Creative Mode]
-[18:38:12] [Server thread/INFO]: [55maxx: Set own game mode to Survival Mode]
-[18:52:52] [User Authenticator #12/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
-[18:52:54] [Server thread/INFO]: j04c001 joined the game
-[18:52:54] [Server thread/INFO]: j04c001[/127.186.198.133:35121] logged in with entity id 143123 at ([world]1352.2884504991844, 63.0, 78.00515238706004)
-[18:52:57] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> eee
-[18:53:05] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> culito
-[18:53:10] [Async Chat Thread - #16/INFO]: [Not Secure] <j04c001> eh
-[18:53:15] [Async Chat Thread - #16/INFO]: [Not Secure] <j04c001> re avanzado
-[18:53:16] [Async Chat Thread - #16/INFO]: [Not Secure] <j04c001> maxi
-[18:53:18] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> lol
-[18:53:20] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> ola
-[18:53:22] [Async Chat Thread - #16/INFO]: [Not Secure] <j04c001> como se llamaba la pagina
-[18:53:28] [Async Chat Thread - #16/INFO]: [Not Secure] <j04c001> donde descargabas las casas
-[18:53:29] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> de q
-[18:53:31] [Async Chat Thread - #16/INFO]: [Not Secure] <j04c001> pal mod
-[18:53:34] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> planeta minecraft creo
-[18:53:41] [Server thread/INFO]: j04c001 has made the advancement [Voluntary Exile]
-[18:54:18] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> estuve desde que te fuiste..
-[18:54:22] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> farmeando y construyendo
-[18:54:27] [Async Chat Thread - #16/INFO]: [Not Secure] <j04c001> oh
-[18:54:28] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> y encima la hice mal
-[18:54:29] [Async Chat Thread - #16/INFO]: [Not Secure] <j04c001> entiendo
-[18:54:42] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> me salio mal por 5 bloques ponele
-[18:54:53] [Async Chat Thread - #16/INFO]: [Not Secure] <j04c001> pero el planeta minecraft es la q ya habia probado
-[18:54:57] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> oh
-[18:54:58] [Async Chat Thread - #16/INFO]: [Not Secure] <j04c001> me habias dicho otra
-[18:55:00] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> minecraft schematic
-[18:55:04] [Async Chat Thread - #16/INFO]: [Not Secure] <j04c001> oh
-[18:55:05] [Async Chat Thread - #16/INFO]: [Not Secure] <j04c001> okey
-[19:02:30] [Async Chat Thread - #18/INFO]: [Not Secure] <55maxx> ol
-[19:02:33] [Async Chat Thread - #18/INFO]: [Not Secure] <j04c001> ola
-[19:02:54] [Async Chat Thread - #18/INFO]: [Not Secure] <55maxx> creo que no llego
-[19:02:56] [Async Chat Thread - #18/INFO]: [Not Secure] <55maxx> a los materiales
-[19:02:57] [Async Chat Thread - #18/INFO]: [Not Secure] <55maxx> pipipi
-[19:03:00] [Async Chat Thread - #18/INFO]: [Not Secure] <j04c001> felicidades
-[19:03:10] [Async Chat Thread - #18/INFO]: [Not Secure] <55maxx> JKSAKJA
-[19:03:50] [Async Chat Thread - #18/INFO]: [Not Secure] <j04c001> podes dormir
-[19:03:54] [Async Chat Thread - #18/INFO]: [Not Secure] <j04c001> ?
-[19:03:55] [Async Chat Thread - #18/INFO]: [Not Secure] <55maxx> sis
-[19:05:36] [Server thread/INFO]: 55maxx issued server command: /skin random
-[19:14:49] [Server thread/INFO]: j04c001 lost connection: Disconnected
-[19:14:49] [Server thread/INFO]: j04c001 left the game
-[20:15:51] [Server thread/INFO]: 55maxx issued server command: /skin random
-[20:15:53] [Server thread/INFO]: 55maxx issued server command: /skin random
-[20:15:55] [Server thread/INFO]: 55maxx issued server command: /skin random
-[20:15:56] [Server thread/INFO]: 55maxx issued server command: /skin random
-[20:15:57] [Server thread/INFO]: 55maxx issued server command: /skin random
-[20:15:58] [Server thread/INFO]: 55maxx issued server command: /skin random
-[20:15:58] [Server thread/INFO]: 55maxx issued server command: /skin random
-[20:15:59] [Server thread/INFO]: 55maxx issued server command: /skin random
-[20:16:00] [Server thread/INFO]: 55maxx issued server command: /skin random
-[20:16:01] [Server thread/INFO]: 55maxx issued server command: /skin random
-[20:16:02] [Server thread/INFO]: 55maxx issued server command: /skin random
-[20:16:10] [Server thread/INFO]: 55maxx issued server command: /skin history 55maxx
-[20:16:27] [Server thread/INFO]: 55maxx issued server command: /skin search momo
-[20:16:29] [Server thread/INFO]: 55maxx issued server command: /skin search momo
-[20:16:32] [Server thread/INFO]: 55maxx issued server command: /skin random
-[20:19:41] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[20:19:41] [Server thread/INFO]: 55maxx left the game
-[20:57:29] [User Authenticator #13/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[20:57:30] [Server thread/INFO]: 55maxx joined the game
-[20:57:30] [Server thread/INFO]: 55maxx[/127.169.100.254:59827] logged in with entity id 162461 at ([world]1361.5, 73.0, 19.5)
-[21:01:31] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[21:01:31] [Server thread/INFO]: 55maxx left the game
+[22:48:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:48:23] [ServerMain/INFO]: Loaded 1407 recipes
+[22:48:23] [ServerMain/INFO]: Loaded 1520 advancements
+[22:48:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[22:48:23] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 368.2ms
+[22:48:23] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[22:48:23] [Server thread/INFO]: Loading properties
+[22:48:23] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[22:48:23] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:48:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:48:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:48:24] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[22:48:24] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[22:48:25] [Server thread/INFO]: Default game type: SURVIVAL
+[22:48:25] [Server thread/INFO]: Generating keypair
+[22:48:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:48:25] [Server thread/INFO]: Using epoll channel type
+[22:48:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:48:25] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[22:48:25] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.2.0
+[22:48:25] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.9
+[22:48:25] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[22:48:25] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
+[22:48:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:48:25] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
+[22:48:26] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[22:48:26] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:48:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:48:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:48:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:48:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:48:27] [Server thread/INFO]: Preparing level "world"
+[22:48:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:48:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:48:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:48:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:48:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:48:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:48:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:48:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
+[22:48:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
+[22:48:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:48:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:48:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:48:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:48:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:48:27] [Server thread/INFO]: Preparing spawn area: 0%
+[22:48:28] [Server thread/INFO]: Preparing spawn area: 10%
+[22:48:28] [Server thread/INFO]: Preparing spawn area: 42%
+[22:48:28] [Server thread/INFO]: Time elapsed: 1306 ms
+[22:48:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:48:29] [Server thread/INFO]: Preparing spawn area: 0%
+[22:48:29] [Server thread/INFO]: Preparing spawn area: 24%
+[22:48:29] [Server thread/INFO]: Time elapsed: 946 ms
+[22:48:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:48:29] [Server thread/INFO]: Preparing spawn area: 0%
+[22:48:30] [Server thread/INFO]: Preparing spawn area: 18%
+[22:48:30] [Server thread/INFO]: Preparing spawn area: 83%
+[22:48:30] [Server thread/INFO]: Time elapsed: 1057 ms
+[22:48:30] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[22:48:30] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[22:48:30] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[22:48:31] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[22:48:31] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[22:48:31] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[22:48:31] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.9
+[22:48:31] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[22:48:31] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.9
+[22:48:31] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[22:48:31] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[22:48:31] [Server thread/INFO]: [spark] Starting background profiler...
+[22:48:32] [Server thread/INFO]: Done preparing level "world" (5.169s)
+[22:48:32] [Server thread/INFO]: Running delayed init tasks
+[22:48:32] [Server thread/INFO]: Done (19.196s)! For help, type "help"
+[22:50:01] [User Authenticator #0/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[22:50:01] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[22:50:03] [Server thread/INFO]: 55maxx joined the game
+[22:50:04] [Server thread/INFO]: 55maxx[/127.169.100.254:51631] logged in with entity id 176 at ([world]1402.1633467720624, 63.0, -5.619716208753344)
+[22:55:57] [Server thread/INFO]: 55maxx issued server command: /home
