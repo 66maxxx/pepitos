@@ -378,3 +378,8 @@
 [04:22:08] [Server thread/INFO]: 55maxx issued server command: /home
 [04:35:55] [Async Chat Thread - #24/INFO]: [Not Secure] <55maxx> que
 [04:36:05] [Async Chat Thread - #24/INFO]: [Not Secure] <55maxx> que queres pepitos
+[05:11:41] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[05:11:41] [Server thread/INFO]: 55maxx left the game
+[05:11:46] [User Authenticator #11/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[05:11:47] [Server thread/INFO]: 55maxx joined the game
+[05:11:47] [Server thread/INFO]: 55maxx[/127.213.21.156:33569] logged in with entity id 82725 at ([world]1347.6782607231144, 63.0, 95.69307438936708)
