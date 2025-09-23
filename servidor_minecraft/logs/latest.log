@@ -279,3 +279,46 @@
 [15:58:37] [Server thread/INFO]: j04c001 left the game
 [16:01:21] [Server thread/INFO]: focareborn lost connection: Disconnected
 [16:01:21] [Server thread/INFO]: focareborn left the game
+[16:08:32] [User Authenticator #9/INFO]: UUID of player Sdoke is d789bda8-213f-3c83-9f41-a533ac0da8c0
+[16:08:36] [Server thread/INFO]: Sdoke joined the game
+[16:08:36] [Server thread/INFO]: Sdoke[/127.163.72.92:39001] logged in with entity id 76724 at ([world]3412.1118183043595, 63.0, -11074.793715416901)
+[16:08:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3426ms or 68 ticks behind
+[16:08:54] [Server thread/INFO]: Villager Villager['Librarian'/76852, uuid='e772dd52-ff98-4a40-82dc-64649b5fcb1f', l='ServerLevel[world]', x=3370.30, y=59.00, z=-11081.70, cpos=[210, -693], tl=161, v=true] died, message: 'Librarian suffocated in a wall'
+[16:08:56] [Server thread/INFO]: Villager Villager['Librarian'/76853, uuid='a7371f33-5c30-4c98-83ce-aca67814b9a5', l='ServerLevel[world]', x=3372.61, y=59.00, z=-11081.61, cpos=[210, -693], tl=191, v=true] died, message: 'Librarian suffocated in a wall'
+[16:08:56] [Server thread/INFO]: Villager Villager['Librarian'/76854, uuid='520ce550-32ff-4c47-9f88-fcde13b0f87c', l='ServerLevel[world]', x=3374.49, y=59.00, z=-11081.34, cpos=[210, -693], tl=191, v=true] died, message: 'Librarian suffocated in a wall'
+[16:08:56] [Server thread/INFO]: Villager Villager['Fletcher'/76857, uuid='7704cd01-8a94-4b27-a289-35c7c58b4b5b', l='ServerLevel[world]', x=3368.73, y=59.00, z=-11073.07, cpos=[210, -693], tl=191, v=true] died, message: 'Fletcher suffocated in a wall'
+[16:08:56] [Server thread/INFO]: Villager Villager['Fletcher'/76858, uuid='5877f53e-765e-4f09-b963-b30f5575e40b', l='ServerLevel[world]', x=3373.71, y=59.00, z=-11079.44, cpos=[210, -693], tl=191, v=true] died, message: 'Fletcher suffocated in a wall'
+[16:08:56] [Server thread/INFO]: Villager Villager['Fletcher'/76859, uuid='43c5d254-04f8-405f-b569-19541089d238', l='ServerLevel[world]', x=3372.75, y=59.00, z=-11078.83, cpos=[210, -693], tl=191, v=true] died, message: 'Fletcher suffocated in a wall'
+[16:08:58] [Server thread/INFO]: Villager Villager['Librarian'/76875, uuid='f8fcf02f-8adb-46cb-ba38-1e845a8af37c', l='ServerLevel[world]', x=3370.30, y=59.00, z=-11067.30, cpos=[210, -692], tl=171, v=true] died, message: 'Librarian suffocated in a wall'
+[16:08:59] [Server thread/INFO]: Villager Villager['Librarian'/76874, uuid='7a85ecd6-c5d5-405f-9aa5-38fd06dfd395', l='ServerLevel[world]', x=3368.30, y=59.00, z=-11067.30, cpos=[210, -692], tl=191, v=true] died, message: 'Librarian suffocated in a wall'
+[16:08:59] [Server thread/INFO]: Villager Villager['Fletcher'/76876, uuid='87d768d9-7766-4140-a42c-42042428e097', l='ServerLevel[world]', x=3374.49, y=59.00, z=-11067.66, cpos=[210, -692], tl=191, v=true] died, message: 'Fletcher suffocated in a wall'
+[16:08:59] [Server thread/INFO]: Villager Villager['Villager'/76877, uuid='86b3dc10-366a-454e-bcec-645c73a7c5f1', l='ServerLevel[world]', x=3368.34, y=59.00, z=-11071.86, cpos=[210, -692], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[16:09:14] [Server thread/INFO]: Sdoke issued server command: /home
+[16:09:16] [Async Chat Thread - #8/INFO]: [Not Secure] <Sdoke> que
+[16:09:20] [Async Chat Thread - #8/INFO]: [Not Secure] <Sdoke> que le paso al mundo??
+[16:09:21] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> q
+[16:09:29] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> de que
+[16:09:33] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> no tengo nada
+[16:09:35] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> como
+[16:09:39] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> mi base no esta
+[16:09:43] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> nada
+[16:09:45] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> e
+[16:09:53] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> te juro
+[16:10:04] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> mira
+[16:10:06] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> manda tp
+[16:10:07] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> el mundo sigue igual
+[16:10:07] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> a
+[16:10:09] [Server thread/INFO]: 55maxx issued server command: /tpa Sdoke
+[16:10:12] [Server thread/INFO]: Sdoke issued server command: /tpaccept
+[16:10:24] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> q
+[16:10:33] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> no habia nada
+[16:10:35] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> q carajos
+[16:10:39] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> amigo wtf
+[16:10:47] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> el mundo no soporto tanta aura
+[16:10:51] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> JAJKAJK
+[16:10:53] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> q wacho
+[16:10:54] [Server thread/INFO]: 55maxx issued server command: /home
+[16:11:00] [Async Chat Thread - #9/INFO]: [Not Secure] <Sdoke> bro si hacen otro avisen uwu
+[16:11:04] [Async Chat Thread - #9/INFO]: [Not Secure] <55maxx> okey
+[16:11:06] [Server thread/INFO]: Sdoke lost connection: Disconnected
+[16:11:06] [Server thread/INFO]: Sdoke left the game
