@@ -133,3 +133,20 @@
 [02:41:54] [Server thread/INFO]: 55maxx left the game
 [02:58:10] [Async Chat Thread - #4/INFO]: [Not Secure] <NACHITOPRO898> j0
 [02:58:15] [Async Chat Thread - #4/INFO]: [Not Secure] <NACHITOPRO898> me ayuda sa aplanar
+[02:58:24] [Async Chat Thread - #4/INFO]: [Not Secure] <NACHITOPRO898> y te quiedas con la tierra?
+[03:01:28] [User Authenticator #6/INFO]: Disconnecting j04c001 (/127.199.195.209:43543): [LoginSecurity] This player is already online!
+[03:01:28] [User Authenticator #6/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
+[03:01:29] [Server thread/INFO]: j04c001 (/127.199.195.209:43543) lost connection: [LoginSecurity] This player is already online!
+[03:01:34] [User Authenticator #6/INFO]: Disconnecting j04c001 (/127.199.195.209:46713): [LoginSecurity] This player is already online!
+[03:01:34] [User Authenticator #6/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
+[03:01:34] [Server thread/INFO]: j04c001 (/127.199.195.209:46713) lost connection: [LoginSecurity] This player is already online!
+[03:01:34] [Server thread/INFO]: j04c001 lost connection: Timed out
+[03:01:34] [Server thread/INFO]: j04c001 left the game
+[03:01:37] [User Authenticator #6/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
+[03:01:38] [Server thread/INFO]: j04c001 joined the game
+[03:01:38] [Server thread/INFO]: j04c001[/127.199.195.209:39265] logged in with entity id 41260 at ([world]1340.5400769940582, 63.56620823175574, 134.17586377645887)
+[03:07:18] [User Authenticator #7/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[03:07:18] [Server thread/INFO]: 55maxx joined the game
+[03:07:18] [Server thread/INFO]: 55maxx[/127.213.21.156:51425] logged in with entity id 43570 at ([world]1363.1080347782288, 63.0, 83.83737749006922)
+[03:07:41] [Async Chat Thread - #6/INFO]: [Not Secure] <j04c001> 55maxx no se te escucha
+[03:07:44] [Async Chat Thread - #6/INFO]: [Not Secure] <j04c001> ds
