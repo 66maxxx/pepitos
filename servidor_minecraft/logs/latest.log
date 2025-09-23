@@ -150,3 +150,32 @@
 [03:07:18] [Server thread/INFO]: 55maxx[/127.213.21.156:51425] logged in with entity id 43570 at ([world]1363.1080347782288, 63.0, 83.83737749006922)
 [03:07:41] [Async Chat Thread - #6/INFO]: [Not Secure] <j04c001> 55maxx no se te escucha
 [03:07:44] [Async Chat Thread - #6/INFO]: [Not Secure] <j04c001> ds
+[03:11:52] [User Authenticator #8/INFO]: UUID of player focareborn is 15a9d3e2-110b-3d7d-b53b-942979256b43
+[03:11:53] [Server thread/INFO]: focareborn joined the game
+[03:11:53] [Server thread/INFO]: focareborn[/127.28.207.22:37847] logged in with entity id 45555 at ([world]-4.5, 67.0, 9.5)
+[03:12:48] [Server thread/INFO]: 55maxx issued server command: /skin villager
+[03:12:57] [Server thread/INFO]: j04c001 issued server command: /skin aldeano
+[03:13:03] [Async Chat Thread - #8/INFO]: [Not Secure] <55maxx> 7skin villager
+[03:13:06] [Server thread/INFO]: j04c001 issued server command: /skin chica anime
+[03:13:10] [Server thread/INFO]: focareborn issued server command: /skin villager
+[03:13:11] [Server thread/INFO]: j04c001 issued server command: /skin villager
+[03:13:21] [Server thread/INFO]: j04c001 issued server command: /skin villager
+[03:13:29] [Server thread/INFO]: j04c001 issued server command: /skin villager
+[03:13:47] [Server thread/INFO]: focareborn has made the advancement [We Need to Go Deeper]
+[03:23:14] [Server thread/INFO]: focareborn has made the advancement [Acquire Hardware]
+[03:23:17] [Server thread/INFO]: focareborn has made the advancement [Cover Me with Diamonds]
+[03:24:02] [Server thread/INFO]: Villager Villager['Fletcher'/123, uuid='cabba85e-cc5e-4295-867e-20a8a87a8a66', l='ServerLevel[world]', x=1388.67, y=63.00, z=98.64, cpos=[86, 6], tl=115366, v=true] died, message: 'Fletcher was slain by j04c001'
+[03:24:15] [Server thread/INFO]: focareborn has made the advancement [Suit Up]
+[03:24:20] [Server thread/INFO]: focareborn has made the advancement [Isn't It Iron Pick]
+[03:25:02] [Server thread/INFO]: focareborn was slain by NACHITOPRO898 using [MISHIFUZ]
+[03:25:07] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> 7back
+[03:25:09] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> ./back
+[03:25:10] [Server thread/INFO]: focareborn issued server command: /back
+[03:25:36] [Server thread/INFO]: Joa_Cac lost connection: Disconnected
+[03:25:36] [Server thread/INFO]: Joa_Cac left the game
+[03:25:55] [Server thread/INFO]: focareborn was slain by NACHITOPRO898 using [MISHIFUZ]
+[03:25:59] [Server thread/INFO]: focareborn issued server command: /back
+[03:26:28] [Server thread/INFO]: focareborn was slain by NACHITOPRO898 using [MISHIFUZ]
+[03:26:31] [Server thread/INFO]: focareborn issued server command: /back
+[03:26:58] [Server thread/INFO]: focareborn was slain by NACHITOPRO898 using [MISHIFUZ]
+[03:27:02] [Server thread/INFO]: focareborn issued server command: /back
