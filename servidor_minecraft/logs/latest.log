@@ -83,3 +83,15 @@
 [22:50:03] [Server thread/INFO]: 55maxx joined the game
 [22:50:04] [Server thread/INFO]: 55maxx[/127.169.100.254:51631] logged in with entity id 176 at ([world]1402.1633467720624, 63.0, -5.619716208753344)
 [22:55:57] [Server thread/INFO]: 55maxx issued server command: /home
+[22:58:46] [User Authenticator #1/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
+[22:58:47] [Server thread/INFO]: j04c001 joined the game
+[22:58:47] [Server thread/INFO]: j04c001[/127.186.198.133:36641] logged in with entity id 3105 at ([world]1373.5408901664423, 92.0, 634.223033992824)
+[22:59:06] [Server thread/INFO]: j04c001 issued server command: /skin random
+[22:59:09] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
+[22:59:10] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[22:59:49] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[22:59:49] [Server thread/INFO]: 55maxx left the game
+[22:59:53] [User Authenticator #2/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[22:59:54] [Server thread/INFO]: 55maxx joined the game
+[22:59:54] [Server thread/INFO]: 55maxx[/127.169.100.254:55675] logged in with entity id 3706 at ([world]1360.2008916849682, 63.0, 67.1236098326479)
+[23:01:57] [Server thread/WARN]: 55maxx moved wrongly!
