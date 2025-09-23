@@ -78,3 +78,19 @@
 [13:36:56] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
 [13:36:59] [Server thread/INFO]: 55maxx joined the game
 [13:36:59] [Server thread/INFO]: 55maxx[/127.200.200.229:58343] logged in with entity id 221 at ([world]1336.860430372869, 63.0, 62.115857533130125)
+[13:55:06] [User Authenticator #1/INFO]: Disconnecting 55maxx (/127.200.200.229:33321): [LoginSecurity] This player is already online!
+[13:55:06] [User Authenticator #1/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[13:55:06] [Server thread/INFO]: 55maxx (/127.200.200.229:33321) lost connection: [LoginSecurity] This player is already online!
+[13:55:11] [User Authenticator #1/INFO]: Disconnecting 55maxx (/127.200.200.229:51645): [LoginSecurity] This player is already online!
+[13:55:11] [User Authenticator #1/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[13:55:11] [Server thread/INFO]: 55maxx (/127.200.200.229:51645) lost connection: [LoginSecurity] This player is already online!
+[13:55:22] [User Authenticator #1/INFO]: Disconnecting 55maxx (/127.200.200.229:34497): [LoginSecurity] This player is already online!
+[13:55:22] [User Authenticator #1/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[13:55:22] [Server thread/INFO]: 55maxx (/127.200.200.229:34497) lost connection: [LoginSecurity] This player is already online!
+[13:55:24] [Server thread/INFO]: 55maxx was kicked due to keepalive timeout!
+[13:55:24] [Server thread/INFO]: 55maxx lost connection: Timed out
+[13:55:24] [Server thread/INFO]: 55maxx left the game
+[13:55:26] [User Authenticator #1/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[13:55:27] [Server thread/INFO]: 55maxx joined the game
+[13:55:27] [Server thread/INFO]: 55maxx[/127.200.200.229:36459] logged in with entity id 3560 at ([world]1345.4910988550675, 63.66525310534071, 69.37249802287714)
+[14:00:51] [Server thread/INFO]: 55maxx issued server command: /home
