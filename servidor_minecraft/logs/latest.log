@@ -329,3 +329,11 @@
 [16:37:36] [Server thread/INFO]: [55maxx: Gave 64 [Snow Block] to 55maxx]
 [16:47:02] [Server thread/INFO]: [55maxx: Set own game mode to Creative Mode]
 [16:47:06] [Server thread/INFO]: [55maxx: Set own game mode to Survival Mode]
+[17:01:39] [Server thread/INFO]: 55maxx issued server command: /tp @s 2071 16.5 28
+[17:01:39] [Server thread/INFO]: [55maxx: Teleported 55maxx to 2071.500000, 16.500000, 28.500000]
+[17:01:40] [Server thread/WARN]: 55maxx moved wrongly!
+[17:01:41] [Server thread/WARN]: 55maxx moved wrongly!
+[17:01:51] [Server thread/INFO]: 55maxx issued server command: /home
+[17:10:28] [Server thread/INFO]: [55maxx: Set own game mode to Creative Mode]
+[17:11:01] [Server thread/INFO]: [55maxx: Set own game mode to Survival Mode]
+[17:12:15] [Server thread/WARN]: 55maxx moved wrongly!
