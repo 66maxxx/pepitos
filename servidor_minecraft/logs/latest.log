@@ -149,3 +149,12 @@
 [14:54:24] [Server thread/WARN]: 55maxx moved wrongly!
 [14:55:46] [Server thread/INFO]: j04c001 issued server command: /skin random
 [14:56:00] [Server thread/INFO]: 55maxx issued server command: /home
+[14:56:22] [Async Chat Thread - #2/INFO]: [Not Secure] <55maxx> papa mono
+[14:57:32] [Server thread/INFO]: focareborn lost connection: Disconnected
+[14:57:32] [Server thread/INFO]: focareborn left the game
+[14:58:37] [Server thread/INFO]: j04c001 lost connection: Disconnected
+[14:58:37] [Server thread/INFO]: j04c001 left the game
+[15:03:37] [User Authenticator #5/INFO]: UUID of player focareborn is 15a9d3e2-110b-3d7d-b53b-942979256b43
+[15:03:38] [Server thread/INFO]: focareborn joined the game
+[15:03:38] [Server thread/INFO]: focareborn[/127.142.249.95:38153] logged in with entity id 27364 at ([world_the_end]913.576260509395, 64.0, 652.1281222761834)
+[15:03:53] [Async Chat Thread - #4/INFO]: [Not Secure] <55maxx> 2075 25 18
