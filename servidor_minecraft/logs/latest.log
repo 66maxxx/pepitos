@@ -122,3 +122,9 @@
 [02:10:45] [Server thread/INFO]: NACHITOPRO898[/127.37.238.251:58451] logged in with entity id 12104 at ([world]1475.197823868231, 63.0, 66.6821532971302)
 [02:16:16] [Server thread/INFO]: Joa_Cac issued server command: /tpa 55maxx
 [02:16:17] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[02:17:58] [Server thread/INFO]: Joa_Cac issued server command: /home
+[02:18:06] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
+[02:18:07] [Server thread/INFO]: NACHITOPRO898 left the game
+[02:19:42] [User Authenticator #5/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
+[02:19:43] [Server thread/INFO]: NACHITOPRO898 joined the game
+[02:19:43] [Server thread/INFO]: NACHITOPRO898[/127.37.238.251:52237] logged in with entity id 16680 at ([world]1434.7864659383488, 63.0, 71.30000001192093)
