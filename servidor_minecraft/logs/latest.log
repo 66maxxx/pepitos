@@ -158,3 +158,38 @@
 [15:03:38] [Server thread/INFO]: focareborn joined the game
 [15:03:38] [Server thread/INFO]: focareborn[/127.142.249.95:38153] logged in with entity id 27364 at ([world_the_end]913.576260509395, 64.0, 652.1281222761834)
 [15:03:53] [Async Chat Thread - #4/INFO]: [Not Secure] <55maxx> 2075 25 18
+[15:06:27] [Server thread/INFO]: 55maxx issued server command: /tp @s 2071 16.5 28
+[15:06:27] [Server thread/INFO]: [55maxx: Teleported 55maxx to 2071.500000, 16.500000, 28.500000]
+[15:06:42] [Server thread/INFO]: 55maxx issued server command: /home
+[15:08:11] [Server thread/INFO]: focareborn has made the advancement [The City at the End of the Game]
+[15:08:16] [Server thread/INFO]: focareborn has made the advancement [Local Brewery]
+[15:09:31] [User Authenticator #6/INFO]: UUID of player j04cc001 is e7a0229a-963a-3207-9173-be3e8c55d200
+[15:09:33] [Server thread/INFO]: j04cc001 joined the game
+[15:09:33] [Server thread/INFO]: j04cc001[/127.199.195.209:36219] logged in with entity id 33714 at ([world]1345.795154543114, 68.5, 68.81941299446224)
+[15:09:35] [Server thread/INFO]: 55maxx issued server command: /tpa focareborn
+[15:09:40] [Server thread/INFO]: focareborn issued server command: /tpaccept
+[15:09:48] [Server thread/INFO]: j04cc001 lost connection: Disconnected
+[15:09:48] [Server thread/INFO]: j04cc001 left the game
+[15:10:06] [Server thread/INFO]: 55maxx issued server command: /home
+[15:10:28] [User Authenticator #6/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
+[15:10:29] [Server thread/INFO]: j04c001 joined the game
+[15:10:29] [Server thread/INFO]: j04c001[/127.199.195.209:57721] logged in with entity id 34248 at ([world]1248.844036688257, 67.0, 128.94996131686943)
+[15:11:45] [Server thread/WARN]: focareborn moved wrongly!
+[15:15:23] [Server thread/INFO]: focareborn issued server command: /home
+[15:15:41] [Server thread/INFO]: j04c001 issued server command: /skin random
+[15:15:54] [Server thread/INFO]: 55maxx issued server command: /skin venom
+[15:15:59] [Server thread/INFO]: 55maxx issued server command: /skin venom1
+[15:16:02] [Server thread/INFO]: 55maxx issued server command: /skin venom
+[15:16:07] [Server thread/INFO]: 55maxx issued server command: /skin random
+[15:16:19] [Server thread/INFO]: 55maxx issued server command: /skin random
+[15:16:24] [Server thread/INFO]: 55maxx issued server command: /skin random
+[15:16:25] [Server thread/INFO]: 55maxx issued server command: /skin random
+[15:16:26] [Server thread/INFO]: 55maxx issued server command: /skin random
+[15:16:26] [Server thread/INFO]: 55maxx issued server command: /skin random
+[15:16:28] [Server thread/INFO]: 55maxx issued server command: /skin random
+[15:16:33] [Server thread/INFO]: 55maxx issued server command: /skin random
+[15:16:35] [Server thread/INFO]: 55maxx issued server command: /skin random
+[15:16:36] [Server thread/INFO]: 55maxx issued server command: /skin random
+[15:16:38] [Server thread/INFO]: 55maxx issued server command: /skin random
+[15:16:39] [Server thread/INFO]: 55maxx issued server command: /skin random
+[15:16:40] [Server thread/INFO]: 55maxx issued server command: /skin random
