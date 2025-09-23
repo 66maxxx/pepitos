@@ -116,3 +116,9 @@
 [02:02:24] [Server thread/INFO]: Joa_Cac joined the game
 [02:02:24] [Server thread/INFO]: Joa_Cac[/127.206.143.98:35575] logged in with entity id 8011 at ([world]-192.2778304330396, 20.0, -1612.5554877526663)
 [02:02:41] [Server thread/INFO]: Joa_Cac issued server command: /home
+[02:09:31] [Server thread/WARN]: 55maxx moved wrongly!
+[02:10:44] [User Authenticator #4/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
+[02:10:45] [Server thread/INFO]: NACHITOPRO898 joined the game
+[02:10:45] [Server thread/INFO]: NACHITOPRO898[/127.37.238.251:58451] logged in with entity id 12104 at ([world]1475.197823868231, 63.0, 66.6821532971302)
+[02:16:16] [Server thread/INFO]: Joa_Cac issued server command: /tpa 55maxx
+[02:16:17] [Server thread/INFO]: 55maxx issued server command: /tpaccept
