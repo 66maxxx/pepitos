@@ -472,3 +472,8 @@
 [20:16:32] [Server thread/INFO]: 55maxx issued server command: /skin random
 [20:19:41] [Server thread/INFO]: 55maxx lost connection: Disconnected
 [20:19:41] [Server thread/INFO]: 55maxx left the game
+[20:57:29] [User Authenticator #13/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[20:57:30] [Server thread/INFO]: 55maxx joined the game
+[20:57:30] [Server thread/INFO]: 55maxx[/127.169.100.254:59827] logged in with entity id 162461 at ([world]1361.5, 73.0, 19.5)
+[21:01:31] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[21:01:31] [Server thread/INFO]: 55maxx left the game
