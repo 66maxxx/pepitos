@@ -95,3 +95,44 @@
 [22:59:54] [Server thread/INFO]: 55maxx joined the game
 [22:59:54] [Server thread/INFO]: 55maxx[/127.169.100.254:55675] logged in with entity id 3706 at ([world]1360.2008916849682, 63.0, 67.1236098326479)
 [23:01:57] [Server thread/WARN]: 55maxx moved wrongly!
+[23:08:38] [Server thread/INFO]: j04c001 lost connection: Disconnected
+[23:08:38] [Server thread/INFO]: j04c001 left the game
+[23:08:52] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[23:08:52] [Server thread/INFO]: 55maxx left the game
+[23:08:56] [User Authenticator #3/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[23:08:57] [Server thread/INFO]: 55maxx joined the game
+[23:08:57] [Server thread/INFO]: 55maxx[/127.169.100.254:51887] logged in with entity id 5410 at ([world]1406.170483546919, 152.58896707064366, 174.049560696932)
+[23:09:32] [User Authenticator #3/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
+[23:09:33] [Server thread/INFO]: j04c001 joined the game
+[23:09:33] [Server thread/INFO]: j04c001[/127.186.198.133:49781] logged in with entity id 5806 at ([world]1423.6127385256632, 48.0, 87.69999998807907)
+[23:12:20] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
+[23:12:22] [Server thread/INFO]: j04c001 issued server command: /skin random
+[23:12:22] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[23:12:24] [User Authenticator #4/INFO]: UUID of player Mikecrack is 967f0542-eda3-3896-b0a1-a83a3ce0b412
+[23:12:28] [Server thread/INFO]: Mikecrack joined the game
+[23:12:28] [Server thread/INFO]: Mikecrack[/127.2.64.235:40579] logged in with entity id 6703 at ([world]1462.4743197131963, 64.0, 122.54805507481123)
+[23:13:32] [Async Chat Thread - #0/INFO]: [Not Secure] <j04c001> ola
+[23:13:34] [Async Chat Thread - #0/INFO]: [Not Secure] <j04c001> toma
+[23:13:34] [Async Chat Thread - #0/INFO]: [Not Secure] <55maxx> ola
+[23:13:47] [Async Chat Thread - #0/INFO]: [Not Secure] <Mikecrack> mas te vale cabron
+[23:13:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Mikecrack> o el cartel ira por ti
+[23:14:09] [Server thread/INFO]: Mikecrack was slain by j04c001
+[23:14:14] [Async Chat Thread - #0/INFO]: [Not Secure] <j04c001> perdon we
+[23:14:15] [Server thread/INFO]: Mikecrack issued server command: /back
+[23:14:18] [Async Chat Thread - #0/INFO]: [Not Secure] <Mikecrack> tenes problemas?
+[23:14:21] [Async Chat Thread - #0/INFO]: [Not Secure] <j04c001> si
+[23:14:23] [Async Chat Thread - #0/INFO]: [Not Secure] <j04c001> muchos
+[23:14:31] [Async Chat Thread - #0/INFO]: [Not Secure] <j04c001> te regalo un totem
+[23:14:56] [Async Chat Thread - #0/INFO]: [Not Secure] <j04c001> toma hijo
+[23:15:10] [Async Chat Thread - #0/INFO]: [Not Secure] <j04c001> tomalo como recompensa por matar a los mounstros de mi parcela
+[23:15:22] [Server thread/INFO]: Mikecrack was slain by Zombie
+[23:15:25] [Server thread/INFO]: Mikecrack issued server command: /back
+[23:15:27] [Async Chat Thread - #0/INFO]: [Not Secure] <Mikecrack> bro.,..
+[23:15:49] [Async Chat Thread - #0/INFO]: [Not Secure] <j04c001> toma hijo...
+[23:16:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Mikecrack> oooo
+[23:16:05] [Async Chat Thread - #0/INFO]: [Not Secure] <j04c001> este es mi ultimo deseo
+[23:16:06] [Async Chat Thread - #0/INFO]: [Not Secure] <j04c001> ,,,
+[23:16:16] [Async Chat Thread - #0/INFO]: [Not Secure] <j04c001> mata a todos los mounstros de mi parcela...
+[23:16:18] [Server thread/INFO]: j04c001 lost connection: Disconnected
+[23:16:18] [Server thread/INFO]: j04c001 left the game
+[23:16:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Mikecrack> lo hare
