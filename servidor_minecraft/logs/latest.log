@@ -325,3 +325,7 @@
 [16:26:01] [Server thread/INFO]: 55maxx has completed the challenge [Hot Tourist Destinations]
 [16:26:27] [Server thread/INFO]: 55maxx has completed the challenge [Return to Sender]
 [16:27:54] [Server thread/INFO]: 55maxx issued server command: /home
+[16:37:36] [Server thread/INFO]: 55maxx issued server command: /give 55maxx minecraft:snow_block 64
+[16:37:36] [Server thread/INFO]: [55maxx: Gave 64 [Snow Block] to 55maxx]
+[16:47:02] [Server thread/INFO]: [55maxx: Set own game mode to Creative Mode]
+[16:47:06] [Server thread/INFO]: [55maxx: Set own game mode to Survival Mode]
