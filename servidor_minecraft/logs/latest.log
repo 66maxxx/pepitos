@@ -23,3 +23,9 @@
 [00:36:52] [Server thread/INFO]: Joa_Cac issued server command: /back
 [00:37:00] [Server thread/INFO]: Joa_Cac issued server command: /tpa 55maxx
 [00:37:02] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[00:42:54] [Server thread/INFO]: Joa_Cac issued server command: /home
+[00:43:25] [Server thread/INFO]: Joa_Cac issued server command: /back
+[00:43:32] [Server thread/INFO]: Joa_Cac issued server command: /tpa 55maxx
+[00:43:34] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[00:44:01] [Server thread/INFO]: Joa_Cac issued server command: /home
+[00:48:42] [Server thread/INFO]: Named entity Zombie['popo'/221, uuid='d9040338-9c8d-41ed-8269-75b0b9badd48', l='ServerLevel[world]', x=1381.67, y=63.94, z=91.25, cpos=[86, 5], tl=151304, v=true] died: popo was slain by j04c001
