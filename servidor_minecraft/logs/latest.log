@@ -376,3 +376,5 @@
 [04:21:47] [Server thread/INFO]: Villager Villager['Fletcher'/122, uuid='337fb112-0b99-46f2-b1ae-b77fc9e94f15', l='ServerLevel[world]', x=1382.30, y=63.00, z=89.69, cpos=[86, 5], tl=184673, v=true] died, message: 'Fletcher was slain by Zombie'
 [04:21:55] [Server thread/INFO]: Villager Villager['Fletcher'/121, uuid='0bebe50f-3ade-4885-abc4-5a21499822d1', l='ServerLevel[world]', x=1383.84, y=63.00, z=89.33, cpos=[86, 5], tl=184827, v=true] died, message: 'Fletcher was slain by Zombie'
 [04:22:08] [Server thread/INFO]: 55maxx issued server command: /home
+[04:35:55] [Async Chat Thread - #24/INFO]: [Not Secure] <55maxx> que
+[04:36:05] [Async Chat Thread - #24/INFO]: [Not Secure] <55maxx> que queres pepitos
