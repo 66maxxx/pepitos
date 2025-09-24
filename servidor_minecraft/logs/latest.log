@@ -59,3 +59,19 @@
 [00:38:44] [Server thread/INFO]: 55maxx issued server command: /tpaccept
 [00:38:50] [Server thread/INFO]: Mikecrack has made the advancement [We Need to Go Deeper]
 [00:39:35] [Server thread/INFO]: Mikecrack issued server command: /home
+[00:40:45] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
+[00:41:40] [Server thread/INFO]: Mikecrack lost connection: Disconnected
+[00:41:40] [Server thread/INFO]: Mikecrack left the game
+[00:41:44] [Async Chat Thread - #10/INFO]: [Not Secure] <NACHITOPRO898> zzz
+[00:41:44] [Server thread/INFO]: 55maxx has made the advancement [Who is Cutting Onions?]
+[00:41:45] [Async Chat Thread - #10/INFO]: [Not Secure] <NACHITOPRO898> zzzz
+[00:42:04] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
+[00:42:25] [Server thread/INFO]: j04c001 issued server command: /home
+[00:42:40] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
+[00:42:52] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
+[00:42:57] [Server thread/INFO]: j04c001 issued server command: /back
+[00:42:59] [User Authenticator #10/INFO]: UUID of player Mikecrack is 967f0542-eda3-3896-b0a1-a83a3ce0b412
+[00:43:00] [Server thread/INFO]: Mikecrack joined the game
+[00:43:00] [Server thread/INFO]: Mikecrack[/127.2.64.235:43051] logged in with entity id 55405 at ([world]1359.6935169735339, 71.83900360170614, 13.300000011920929)
+[00:46:28] [Server thread/INFO]: Mikecrack issued server command: /tell 55maxx gayko
+[00:47:47] [Server thread/INFO]: 55maxx has made the advancement [War Pigs]
