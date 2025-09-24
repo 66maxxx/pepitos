@@ -141,3 +141,6 @@
 [03:05:51] [Server thread/INFO]: focareborn fell from a high place
 [03:05:54] [Server thread/INFO]: focareborn issued server command: /back
 [03:06:44] [Server thread/INFO]: focareborn issued server command: /home
+[03:11:29] [Server thread/INFO]: focareborn lost connection: Disconnected
+[03:11:29] [Server thread/INFO]: focareborn left the game
+[03:11:51] [Server thread/INFO]: Mikecrack issued server command: /home
