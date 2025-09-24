@@ -116,3 +116,28 @@
 [02:52:39] [Server thread/INFO]: Mikecrack issued server command: /tpa 55maxx
 [02:52:44] [Server thread/INFO]: 55maxx issued server command: /tpaccept
 [02:53:10] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
+[03:02:31] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
+[03:02:31] [Server thread/INFO]: NACHITOPRO898 left the game
+[03:02:40] [User Authenticator #3/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
+[03:02:41] [Server thread/INFO]: NACHITOPRO898 joined the game
+[03:02:41] [Server thread/INFO]: NACHITOPRO898[/127.48.164.89:60717] logged in with entity id 23705 at ([world]1978.0271687179895, -2.5, 855.5050191712421)
+[03:03:25] [User Authenticator #3/INFO]: UUID of player focareborn is 15a9d3e2-110b-3d7d-b53b-942979256b43
+[03:03:26] [Server thread/INFO]: focareborn joined the game
+[03:03:26] [Server thread/INFO]: focareborn[/127.142.249.95:33241] logged in with entity id 24119 at ([world]1344.6989993718246, 64.0, 70.76249998807907)
+[03:03:40] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
+[03:04:07] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpa 55maxx
+[03:04:15] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[03:04:48] [Server thread/INFO]: focareborn issued server command: /home
+[03:05:08] [Async Chat Thread - #4/INFO]: [Not Secure] <Mikecrack> pongase serio ciervo
+[03:05:13] [Server thread/INFO]: 55maxx issued server command: /ban NACHITOPRO898
+[03:05:13] [Server thread/INFO]: [55maxx: Banned NACHITOPRO898: Banned by an operator.]
+[03:05:13] [Server thread/INFO]: NACHITOPRO898 lost connection: You are banned from this server
+[03:05:13] [Server thread/INFO]: NACHITOPRO898 left the game
+[03:05:41] [Server thread/INFO]: 55maxx issued server command: /pardon NACHITOPRO898
+[03:05:41] [Server thread/INFO]: [55maxx: Unbanned NACHITOPRO898]
+[03:05:47] [User Authenticator #4/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
+[03:05:48] [Server thread/INFO]: NACHITOPRO898 joined the game
+[03:05:48] [Server thread/INFO]: NACHITOPRO898[/127.48.164.89:52285] logged in with entity id 25139 at ([world]1429.3664381141773, 63.0, 55.40416672912973)
+[03:05:51] [Server thread/INFO]: focareborn fell from a high place
+[03:05:54] [Server thread/INFO]: focareborn issued server command: /back
+[03:06:44] [Server thread/INFO]: focareborn issued server command: /home
