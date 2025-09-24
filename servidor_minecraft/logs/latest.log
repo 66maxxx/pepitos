@@ -126,3 +126,13 @@
 [17:51:43] [Server thread/INFO]: Mikecrack issued server command: /home
 [17:54:00] [Server thread/INFO]: j04c001 has made the advancement [The City at the End of the Game]
 [17:54:30] [Server thread/INFO]: j04c001 has made the advancement [Local Brewery]
+[17:59:14] [User Authenticator #5/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
+[17:59:15] [Server thread/INFO]: NACHITOPRO898 joined the game
+[17:59:15] [Server thread/INFO]: NACHITOPRO898[/127.189.51.51:50281] logged in with entity id 27797 at ([world]1345.8750301973223, 63.125, 71.78470230975874)
+[18:00:16] [Server thread/INFO]: j04c001 issued server command: /home
+[18:00:20] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
+[18:00:22] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[18:02:19] [Server thread/INFO]: j04c001 lost connection: Disconnected
+[18:02:19] [Server thread/INFO]: j04c001 left the game
+[18:04:49] [Server thread/INFO]: Mikecrack issued server command: /HOME
+[18:04:52] [Server thread/INFO]: Mikecrack issued server command: /home
