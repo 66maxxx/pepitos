@@ -190,3 +190,7 @@
 [03:48:05] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
 [03:48:38] [Server thread/INFO]: Villager Villager['Fletcher'/1367, uuid='f19724c0-cbed-49e3-a752-a4f659db6d69', l='ServerLevel[world]', x=1382.30, y=63.00, z=93.70, cpos=[86, 5], tl=95088, v=true] died, message: 'Fletcher was slain by Zombie'
 [04:06:20] [Server thread/INFO]: 55maxx issued server command: /home
+[04:11:18] [Async Chat Thread - #8/INFO]: [Not Secure] <55maxx> bro¡
+[04:16:49] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
+[04:17:19] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
+[04:18:37] [Server thread/INFO]: Villager Villager['Cleric'/128, uuid='a0f0ad01-e13d-40a8-9f30-7be7d4939c56', l='ServerLevel[world]', x=1330.31, y=63.00, z=-8.11, cpos=[83, -1], tl=133024, v=true] died, message: 'Cleric was slain by Zombie'
