@@ -108,3 +108,14 @@
 [05:22:25] [Server thread/INFO]: 55maxx issued server command: /skin messi
 [05:22:35] [Server thread/INFO]: 55maxx issued server command: /skin cr7
 [05:38:16] [Server thread/INFO]: Mikecrack issued server command: /home
+[05:48:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Mikecrack> amigo
+[05:48:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Mikecrack> reparame la pala
+[05:48:32] [Server thread/INFO]: Mikecrack issued server command: /tpa 55maxx
+[05:48:37] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[05:51:27] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[05:51:27] [Server thread/INFO]: 55maxx left the game
+[05:51:34] [User Authenticator #2/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[05:51:35] [Server thread/INFO]: 55maxx joined the game
+[05:51:35] [Server thread/INFO]: 55maxx[/127.169.100.254:49691] logged in with entity id 15901 at ([world]1429.3768748911896, 64.02442408821369, 168.43679397261283)
+[05:52:06] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[05:52:06] [Server thread/INFO]: 55maxx left the game
