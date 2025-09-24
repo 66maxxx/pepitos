@@ -87,3 +87,18 @@
 [17:24:08] [Server thread/INFO]: 55maxx issued server command: /home
 [17:25:19] [Async Chat Thread - #1/INFO]: [Not Secure] <55maxx> zzz
 [17:26:19] [Server thread/INFO]: NACHITOPRO898 issued server command: /home
+[17:27:30] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
+[17:27:34] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpa 55maxx
+[17:27:36] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[17:29:54] [User Authenticator #2/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
+[17:29:55] [Server thread/INFO]: j04c001 joined the game
+[17:29:55] [Server thread/INFO]: j04c001[/127.246.100.216:36023] logged in with entity id 11600 at ([world]1356.0566796046126, 63.0, 89.39777795668047)
+[17:30:07] [Server thread/INFO]: j04c001 issued server command: /skin random
+[17:30:25] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
+[17:30:28] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[17:31:43] [Server thread/INFO]: j04c001 issued server command: /skin random
+[17:32:31] [Async Chat Thread - #2/INFO]: [Not Secure] <NACHITOPRO898> oda
+[17:34:35] [Server thread/INFO]: j04c001 issued server command: /skin random
+[17:35:14] [User Authenticator #3/INFO]: UUID of player Mikecrack is 967f0542-eda3-3896-b0a1-a83a3ce0b412
+[17:35:20] [Server thread/INFO]: Mikecrack joined the game
+[17:35:20] [Server thread/INFO]: Mikecrack[/127.158.109.245:50235] logged in with entity id 12477 at ([world]1454.449030687977, 63.0, 120.19654931036835)
