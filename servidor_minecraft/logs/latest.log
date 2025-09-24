@@ -193,3 +193,39 @@
 [18:48:48] [Server thread/INFO]: 55maxx joined the game
 [18:48:48] [Server thread/INFO]: 55maxx[/127.169.100.254:46851] logged in with entity id 61497 at ([world]1338.5089848915247, 63.0, 34.104181135957845)
 [18:56:33] [Server thread/WARN]: 55maxx moved wrongly!
+[19:12:54] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[19:12:54] [Server thread/INFO]: 55maxx left the game
+[19:15:31] [User Authenticator #10/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[19:15:31] [Server thread/INFO]: 55maxx joined the game
+[19:15:32] [Server thread/INFO]: 55maxx[/127.169.100.254:42631] logged in with entity id 73634 at ([world]1357.443542271802, 63.0, 62.5525479678463)
+[19:17:40] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[19:17:40] [Server thread/INFO]: 55maxx left the game
+[19:17:43] [User Authenticator #11/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[19:17:44] [Server thread/INFO]: 55maxx joined the game
+[19:17:44] [Server thread/INFO]: 55maxx[/127.169.100.254:40243] logged in with entity id 76958 at ([world]1338.236645040306, 68.0, 51.20540824931197)
+[19:18:23] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[19:18:23] [Server thread/INFO]: 55maxx left the game
+[19:18:56] [User Authenticator #12/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[19:18:57] [Server thread/INFO]: 55maxx joined the game
+[19:18:57] [Server thread/INFO]: 55maxx[/127.169.100.254:45423] logged in with entity id 80484 at ([world]1332.1384209658888, 68.0, 51.13432676832219)
+[19:19:54] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[19:19:54] [Server thread/INFO]: 55maxx left the game
+[19:21:22] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
+[19:21:47] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
+[19:22:08] [User Authenticator #13/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[19:22:09] [Server thread/INFO]: 55maxx joined the game
+[19:22:09] [Server thread/INFO]: 55maxx[/127.169.100.254:41343] logged in with entity id 85374 at ([world]1327.8777907607455, 68.0, 45.12438699161278)
+[19:22:45] [Server thread/INFO]: teovserbo123 issued server command: /tpa 55maxx
+[19:22:48] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[19:23:34] [Server thread/INFO]: teovserbo123 issued server command: /tpa NACHITOPRO898
+[19:23:35] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpaccept
+[19:24:49] [Server thread/INFO]: Mikecrack issued server command: /home
+[19:25:43] [Server thread/INFO]: teovserbo123 issued server command: /tpa 55maxx
+[19:25:46] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[19:26:48] [Server thread/INFO]: teovserbo123 issued server command: /tpa NACHITOPRO898
+[19:26:50] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpaccept
+[19:27:46] [Server thread/INFO]: teovserbo123 issued server command: /tpa 55maxx
+[19:27:48] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[19:27:50] [Server thread/INFO]: Mikecrack issued server command: /home
+[19:28:15] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[19:28:15] [Server thread/INFO]: 55maxx left the game
