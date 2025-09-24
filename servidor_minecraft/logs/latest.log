@@ -229,3 +229,7 @@
 [19:27:50] [Server thread/INFO]: Mikecrack issued server command: /home
 [19:28:15] [Server thread/INFO]: 55maxx lost connection: Disconnected
 [19:28:15] [Server thread/INFO]: 55maxx left the game
+[19:36:27] [User Authenticator #14/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[19:36:27] [Server thread/INFO]: 55maxx joined the game
+[19:36:27] [Server thread/INFO]: 55maxx[/127.169.100.254:32903] logged in with entity id 94416 at ([world]1342.3588460633853, 63.0, 12.086682686627203)
+[19:38:16] [Server thread/INFO]: Mikecrack issued server command: /home
