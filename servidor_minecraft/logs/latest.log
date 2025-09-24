@@ -102,3 +102,27 @@
 [17:35:14] [User Authenticator #3/INFO]: UUID of player Mikecrack is 967f0542-eda3-3896-b0a1-a83a3ce0b412
 [17:35:20] [Server thread/INFO]: Mikecrack joined the game
 [17:35:20] [Server thread/INFO]: Mikecrack[/127.158.109.245:50235] logged in with entity id 12477 at ([world]1454.449030687977, 63.0, 120.19654931036835)
+[17:37:32] [Server thread/INFO]: j04c001 issued server command: /skin random
+[17:38:15] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
+[17:38:15] [Server thread/INFO]: NACHITOPRO898 left the game
+[17:38:17] [Server thread/INFO]: j04c001 issued server command: /skin random
+[17:38:57] [Server thread/INFO]: j04c001 issued server command: /skin random
+[17:39:33] [Server thread/INFO]: j04c001 issued server command: /skin random
+[17:47:41] [Async Chat Thread - #4/INFO]: [Not Secure] <55maxx> xaero-waypoint:end:E:2071:16:28:8:false:0:Internal-overworld
+[17:47:42] [Server thread/INFO]: j04c001 lost connection: Disconnected
+[17:47:42] [Server thread/INFO]: j04c001 left the game
+[17:49:03] [User Authenticator #4/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
+[17:49:05] [Server thread/INFO]: j04c001 joined the game
+[17:49:05] [Server thread/INFO]: j04c001[/127.246.100.216:36899] logged in with entity id 18840 at ([world]1398.699999988079, 59.0, 32.69999998807907)
+[17:49:10] [Async Chat Thread - #6/INFO]: [Not Secure] <55maxx> xaero-waypoint:end:E:2071:16:28:8:false:0:Internal-overworld
+[17:49:20] [Server thread/INFO]: j04c001 issued server command: /skin random
+[17:50:55] [Server thread/INFO]: Mikecrack was blown up by Creeper
+[17:50:55] [Server thread/INFO]: 55maxx issued server command: /tp @s 2071 16.5 28
+[17:50:56] [Server thread/INFO]: [55maxx: Teleported 55maxx to 2071.500000, 16.500000, 28.500000]
+[17:50:58] [Server thread/INFO]: 55maxx issued server command: /back
+[17:51:00] [Server thread/INFO]: Mikecrack issued server command: /back
+[17:51:00] [Server thread/INFO]: 55maxx issued server command: /home
+[17:51:05] [Async Chat Thread - #8/INFO]: [Not Secure] <55maxx> xaero-waypoint:end:E:2071:16:28:8:false:0:Internal-overworld
+[17:51:43] [Server thread/INFO]: Mikecrack issued server command: /home
+[17:54:00] [Server thread/INFO]: j04c001 has made the advancement [The City at the End of the Game]
+[17:54:30] [Server thread/INFO]: j04c001 has made the advancement [Local Brewery]
