@@ -80,3 +80,7 @@
 [16:28:52] [Server thread/INFO]: 55maxx[/127.169.100.254:56393] logged in with entity id 47 at ([world]1429.3768748911896, 63.0, 168.43679397261283)
 [16:43:33] [Server thread/INFO]: Villager Villager['Toolsmith'/274, uuid='ea7f83ce-b4bf-4ce5-ac4b-82a4220faef3', l='ServerLevel[world]', x=1351.79, y=62.52, z=-17.70, cpos=[84, -2], tl=17531, v=true] died, message: 'Toolsmith was slain by Zombie'
 [16:45:19] [Server thread/WARN]: 55maxx moved wrongly!
+[17:07:46] [Server thread/INFO]: Villager Villager['Mason'/211, uuid='942e48e4-1f99-4a2e-84a1-55ef1491547d', l='ServerLevel[world]', x=1346.54, y=63.00, z=5.62, cpos=[84, 0], tl=46610, v=true] died, message: 'Mason was slain by Zombie'
+[17:15:33] [User Authenticator #1/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
+[17:15:35] [Server thread/INFO]: NACHITOPRO898 joined the game
+[17:15:35] [Server thread/INFO]: NACHITOPRO898[/127.189.51.51:42069] logged in with entity id 7289 at ([world]1475.699999988079, 62.5625, 58.30306775601478)
