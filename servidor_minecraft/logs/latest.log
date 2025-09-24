@@ -1,257 +1,89 @@
-[16:26:07] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[16:26:07] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[16:26:07] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[16:26:07] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[16:26:07] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[20:13:35] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[20:13:35] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[20:13:35] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:13:36] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[20:13:36] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - LoginSecurity (3.2.0), SetHome (6.2.3), SimpleTpa (7.9), SkinsRestorer (15.8.0)
-[16:26:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:26:13] [ServerMain/INFO]: Loaded 1407 recipes
-[16:26:13] [ServerMain/INFO]: Loaded 1520 advancements
-[16:26:13] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[16:26:14] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 353.5ms
-[16:26:14] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[16:26:14] [Server thread/INFO]: Loading properties
-[16:26:14] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[16:26:14] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[16:26:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:26:14] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:26:15] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[16:26:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[16:26:15] [Server thread/INFO]: Default game type: SURVIVAL
-[16:26:15] [Server thread/INFO]: Generating keypair
-[16:26:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:26:15] [Server thread/INFO]: Using epoll channel type
-[16:26:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[16:26:15] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[16:26:15] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.2.0
-[16:26:15] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.9
-[16:26:15] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
-[16:26:15] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
-[16:26:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:26:15] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
-[16:26:16] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[16:26:17] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[16:26:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:26:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:26:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:26:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:26:17] [Server thread/INFO]: Preparing level "world"
-[16:26:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[16:26:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[16:26:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[16:26:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[16:26:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[16:26:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[16:26:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[16:26:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
-[16:26:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
-[16:26:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[16:26:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[16:26:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[16:26:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[16:26:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:26:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:18] [Server thread/INFO]: Preparing spawn area: 22%
-[16:26:18] [Server thread/INFO]: Time elapsed: 960 ms
-[16:26:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:26:18] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:18] [Server thread/INFO]: Time elapsed: 272 ms
-[16:26:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:26:19] [Server thread/INFO]: Preparing spawn area: 0%
-[16:26:19] [Server thread/INFO]: Time elapsed: 122 ms
-[16:26:19] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[16:26:19] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[16:26:19] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[16:26:19] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[16:26:19] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[16:26:19] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[16:26:19] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.9
-[16:26:19] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[16:26:19] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.9
-[16:26:19] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[16:26:19] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
-[16:26:19] [Server thread/INFO]: [spark] Starting background profiler...
-[16:26:19] [Server thread/INFO]: Done preparing level "world" (2.604s)
-[16:26:19] [Server thread/INFO]: Running delayed init tasks
-[16:26:19] [Server thread/INFO]: Done (13.789s)! For help, type "help"
-[16:28:49] [User Authenticator #0/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[16:28:49] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
-[16:28:51] [Server thread/INFO]: 55maxx joined the game
-[16:28:52] [Server thread/INFO]: 55maxx[/127.169.100.254:56393] logged in with entity id 47 at ([world]1429.3768748911896, 63.0, 168.43679397261283)
-[16:43:33] [Server thread/INFO]: Villager Villager['Toolsmith'/274, uuid='ea7f83ce-b4bf-4ce5-ac4b-82a4220faef3', l='ServerLevel[world]', x=1351.79, y=62.52, z=-17.70, cpos=[84, -2], tl=17531, v=true] died, message: 'Toolsmith was slain by Zombie'
-[16:45:19] [Server thread/WARN]: 55maxx moved wrongly!
-[17:07:46] [Server thread/INFO]: Villager Villager['Mason'/211, uuid='942e48e4-1f99-4a2e-84a1-55ef1491547d', l='ServerLevel[world]', x=1346.54, y=63.00, z=5.62, cpos=[84, 0], tl=46610, v=true] died, message: 'Mason was slain by Zombie'
-[17:15:33] [User Authenticator #1/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
-[17:15:35] [Server thread/INFO]: NACHITOPRO898 joined the game
-[17:15:35] [Server thread/INFO]: NACHITOPRO898[/127.189.51.51:42069] logged in with entity id 7289 at ([world]1475.699999988079, 62.5625, 58.30306775601478)
-[17:24:08] [Server thread/INFO]: 55maxx issued server command: /home
-[17:25:19] [Async Chat Thread - #1/INFO]: [Not Secure] <55maxx> zzz
-[17:26:19] [Server thread/INFO]: NACHITOPRO898 issued server command: /home
-[17:27:30] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[17:27:34] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpa 55maxx
-[17:27:36] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[17:29:54] [User Authenticator #2/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
-[17:29:55] [Server thread/INFO]: j04c001 joined the game
-[17:29:55] [Server thread/INFO]: j04c001[/127.246.100.216:36023] logged in with entity id 11600 at ([world]1356.0566796046126, 63.0, 89.39777795668047)
-[17:30:07] [Server thread/INFO]: j04c001 issued server command: /skin random
-[17:30:25] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
-[17:30:28] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[17:31:43] [Server thread/INFO]: j04c001 issued server command: /skin random
-[17:32:31] [Async Chat Thread - #2/INFO]: [Not Secure] <NACHITOPRO898> oda
-[17:34:35] [Server thread/INFO]: j04c001 issued server command: /skin random
-[17:35:14] [User Authenticator #3/INFO]: UUID of player Mikecrack is 967f0542-eda3-3896-b0a1-a83a3ce0b412
-[17:35:20] [Server thread/INFO]: Mikecrack joined the game
-[17:35:20] [Server thread/INFO]: Mikecrack[/127.158.109.245:50235] logged in with entity id 12477 at ([world]1454.449030687977, 63.0, 120.19654931036835)
-[17:37:32] [Server thread/INFO]: j04c001 issued server command: /skin random
-[17:38:15] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
-[17:38:15] [Server thread/INFO]: NACHITOPRO898 left the game
-[17:38:17] [Server thread/INFO]: j04c001 issued server command: /skin random
-[17:38:57] [Server thread/INFO]: j04c001 issued server command: /skin random
-[17:39:33] [Server thread/INFO]: j04c001 issued server command: /skin random
-[17:47:41] [Async Chat Thread - #4/INFO]: [Not Secure] <55maxx> xaero-waypoint:end:E:2071:16:28:8:false:0:Internal-overworld
-[17:47:42] [Server thread/INFO]: j04c001 lost connection: Disconnected
-[17:47:42] [Server thread/INFO]: j04c001 left the game
-[17:49:03] [User Authenticator #4/INFO]: UUID of player j04c001 is 71e49d52-7d61-3d8f-a63d-cc5846b47a78
-[17:49:05] [Server thread/INFO]: j04c001 joined the game
-[17:49:05] [Server thread/INFO]: j04c001[/127.246.100.216:36899] logged in with entity id 18840 at ([world]1398.699999988079, 59.0, 32.69999998807907)
-[17:49:10] [Async Chat Thread - #6/INFO]: [Not Secure] <55maxx> xaero-waypoint:end:E:2071:16:28:8:false:0:Internal-overworld
-[17:49:20] [Server thread/INFO]: j04c001 issued server command: /skin random
-[17:50:55] [Server thread/INFO]: Mikecrack was blown up by Creeper
-[17:50:55] [Server thread/INFO]: 55maxx issued server command: /tp @s 2071 16.5 28
-[17:50:56] [Server thread/INFO]: [55maxx: Teleported 55maxx to 2071.500000, 16.500000, 28.500000]
-[17:50:58] [Server thread/INFO]: 55maxx issued server command: /back
-[17:51:00] [Server thread/INFO]: Mikecrack issued server command: /back
-[17:51:00] [Server thread/INFO]: 55maxx issued server command: /home
-[17:51:05] [Async Chat Thread - #8/INFO]: [Not Secure] <55maxx> xaero-waypoint:end:E:2071:16:28:8:false:0:Internal-overworld
-[17:51:43] [Server thread/INFO]: Mikecrack issued server command: /home
-[17:54:00] [Server thread/INFO]: j04c001 has made the advancement [The City at the End of the Game]
-[17:54:30] [Server thread/INFO]: j04c001 has made the advancement [Local Brewery]
-[17:59:14] [User Authenticator #5/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
-[17:59:15] [Server thread/INFO]: NACHITOPRO898 joined the game
-[17:59:15] [Server thread/INFO]: NACHITOPRO898[/127.189.51.51:50281] logged in with entity id 27797 at ([world]1345.8750301973223, 63.125, 71.78470230975874)
-[18:00:16] [Server thread/INFO]: j04c001 issued server command: /home
-[18:00:20] [Server thread/INFO]: j04c001 issued server command: /tpa 55maxx
-[18:00:22] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[18:02:19] [Server thread/INFO]: j04c001 lost connection: Disconnected
-[18:02:19] [Server thread/INFO]: j04c001 left the game
-[18:04:49] [Server thread/INFO]: Mikecrack issued server command: /HOME
-[18:04:52] [Server thread/INFO]: Mikecrack issued server command: /home
-[18:09:39] [Server thread/INFO]: Mikecrack issued server command: /home
-[18:15:42] [User Authenticator #6/INFO]: UUID of player teovserbo123 is 2e7d6868-464c-3df9-9a39-40997ca4a0e4
-[18:15:43] [Server thread/INFO]: teovserbo123 joined the game
-[18:15:43] [Server thread/INFO]: teovserbo123[/127.143.199.33:46675] logged in with entity id 41742 at ([world]1816.24590557255, -26.0, 661.3557872331178)
-[18:16:40] [Server thread/INFO]: teovserbo123 issued server command: /tpa 55maxx
-[18:16:43] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[18:17:03] [Server thread/INFO]: teovserbo123 has made the advancement [Hidden in the Depths]
-[18:17:52] [Server thread/INFO]: NACHITOPRO898 issued server command: /home
-[18:18:55] [Server thread/INFO]: Mikecrack issued server command: /home
-[18:21:06] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> xaero-waypoint:casa mateo:C:1054:63:-123:2:false:0:Internal-overworld
-[18:21:11] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> xaero-waypoint:end:E:2071:16:28:8:false:0:Internal-overworld
-[18:21:14] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> xaero-waypoint:Shared Location:S:1085:63:505:1:false:0:Internal-overworld
-[18:21:36] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> 1057 -145 mateo casa
-[18:21:39] [Server thread/INFO]: Mikecrack issued server command: /home
-[18:22:15] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[18:22:15] [Server thread/INFO]: 55maxx left the game
-[18:22:24] [User Authenticator #7/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[18:22:25] [Server thread/INFO]: 55maxx joined the game
-[18:22:25] [Server thread/INFO]: 55maxx[/127.169.100.254:53813] logged in with entity id 47661 at ([world]1350.1961224416928, 63.0, 71.07725351507689)
-[18:23:27] [Server thread/WARN]: Mikecrack moved wrongly!
-[18:23:34] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpa 55maxx
-[18:23:53] [Server thread/INFO]: 55maxx issued server command: /skin donramon
-[18:24:05] [Server thread/INFO]: 55maxx issued server command: /skin elchavo
-[18:24:49] [Server thread/INFO]: NACHITOPRO898 has made the advancement [The Cutest Predator]
-[18:24:51] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[18:25:45] [Server thread/INFO]: Mikecrack issued server command: /home
-[18:25:49] [Server thread/WARN]: Mikecrack moved wrongly!
-[18:25:58] [Server thread/INFO]: 55maxx issued server command: /skin ramon
-[18:26:03] [Server thread/INFO]: 55maxx issued server command: /skin chavo8
-[18:26:10] [Server thread/INFO]: 55maxx issued server command: /skin chavodel8
-[18:26:14] [Server thread/INFO]: 55maxx issued server command: /skin chavo
-[18:26:19] [Server thread/INFO]: 55maxx issued server command: /skin random
-[18:26:26] [Async Chat Thread - #12/INFO]: [Not Secure] <55maxx> ./skin random
-[18:27:07] [Server thread/INFO]: 55maxx issued server command: /skin AlexisFourtune
-[18:28:06] [Async Chat Thread - #14/INFO]: [Not Secure] <55maxx> 67
-[18:28:25] [Server thread/WARN]: NACHITOPRO898 moved wrongly!
-[18:30:10] [Server thread/INFO]: Mikecrack has made the advancement [Enchanter]
-[18:30:51] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[18:30:51] [Server thread/INFO]: 55maxx left the game
-[18:37:24] [User Authenticator #8/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[18:37:25] [Server thread/INFO]: 55maxx joined the game
-[18:37:25] [Server thread/INFO]: 55maxx[/127.169.100.254:35671] logged in with entity id 57813 at ([world]1348.9664839952366, 63.0, 73.58809140826565)
-[18:38:15] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[18:38:17] [Server thread/INFO]: teovserbo123 issued server command: /tpa 55maxx
-[18:38:20] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[18:40:03] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[18:40:03] [Server thread/INFO]: 55maxx left the game
-[18:41:02] [Server thread/INFO]: teovserbo123 has made the advancement [We Need to Go Deeper]
-[18:43:23] [Server thread/INFO]: teovserbo123 issued server command: /tpa NACHITOPRO898
-[18:43:25] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpaccept
-[18:46:31] [Server thread/INFO]: NACHITOPRO898 fell from a high place
-[18:46:34] [Server thread/INFO]: teovserbo123 has completed the challenge [Cover Me in Debris]
-[18:46:35] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[18:48:48] [User Authenticator #9/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[18:48:48] [Server thread/INFO]: 55maxx joined the game
-[18:48:48] [Server thread/INFO]: 55maxx[/127.169.100.254:46851] logged in with entity id 61497 at ([world]1338.5089848915247, 63.0, 34.104181135957845)
-[18:56:33] [Server thread/WARN]: 55maxx moved wrongly!
-[19:12:54] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[19:12:54] [Server thread/INFO]: 55maxx left the game
-[19:15:31] [User Authenticator #10/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[19:15:31] [Server thread/INFO]: 55maxx joined the game
-[19:15:32] [Server thread/INFO]: 55maxx[/127.169.100.254:42631] logged in with entity id 73634 at ([world]1357.443542271802, 63.0, 62.5525479678463)
-[19:17:40] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[19:17:40] [Server thread/INFO]: 55maxx left the game
-[19:17:43] [User Authenticator #11/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[19:17:44] [Server thread/INFO]: 55maxx joined the game
-[19:17:44] [Server thread/INFO]: 55maxx[/127.169.100.254:40243] logged in with entity id 76958 at ([world]1338.236645040306, 68.0, 51.20540824931197)
-[19:18:23] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[19:18:23] [Server thread/INFO]: 55maxx left the game
-[19:18:56] [User Authenticator #12/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[19:18:57] [Server thread/INFO]: 55maxx joined the game
-[19:18:57] [Server thread/INFO]: 55maxx[/127.169.100.254:45423] logged in with entity id 80484 at ([world]1332.1384209658888, 68.0, 51.13432676832219)
-[19:19:54] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[19:19:54] [Server thread/INFO]: 55maxx left the game
-[19:21:22] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[19:21:47] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[19:22:08] [User Authenticator #13/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[19:22:09] [Server thread/INFO]: 55maxx joined the game
-[19:22:09] [Server thread/INFO]: 55maxx[/127.169.100.254:41343] logged in with entity id 85374 at ([world]1327.8777907607455, 68.0, 45.12438699161278)
-[19:22:45] [Server thread/INFO]: teovserbo123 issued server command: /tpa 55maxx
-[19:22:48] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[19:23:34] [Server thread/INFO]: teovserbo123 issued server command: /tpa NACHITOPRO898
-[19:23:35] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpaccept
-[19:24:49] [Server thread/INFO]: Mikecrack issued server command: /home
-[19:25:43] [Server thread/INFO]: teovserbo123 issued server command: /tpa 55maxx
-[19:25:46] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[19:26:48] [Server thread/INFO]: teovserbo123 issued server command: /tpa NACHITOPRO898
-[19:26:50] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpaccept
-[19:27:46] [Server thread/INFO]: teovserbo123 issued server command: /tpa 55maxx
-[19:27:48] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[19:27:50] [Server thread/INFO]: Mikecrack issued server command: /home
-[19:28:15] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[19:28:15] [Server thread/INFO]: 55maxx left the game
-[19:36:27] [User Authenticator #14/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[19:36:27] [Server thread/INFO]: 55maxx joined the game
-[19:36:27] [Server thread/INFO]: 55maxx[/127.169.100.254:32903] logged in with entity id 94416 at ([world]1342.3588460633853, 63.0, 12.086682686627203)
-[19:38:16] [Server thread/INFO]: Mikecrack issued server command: /home
-[19:42:22] [Server thread/INFO]: Mikecrack issued server command: /home
-[19:43:13] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
-[19:43:13] [Server thread/INFO]: NACHITOPRO898 left the game
-[19:44:21] [Server thread/INFO]: 55maxx issued server command: /tpa teovserbo123
-[19:44:31] [Server thread/INFO]: teovserbo123 issued server command: /tpaccept
-[19:45:32] [Server thread/INFO]: 55maxx issued server command: /home
-[19:46:41] [Server thread/INFO]: 55maxx lost connection: Disconnected
-[19:46:41] [Server thread/INFO]: 55maxx left the game
-[19:46:45] [User Authenticator #15/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[19:46:46] [Server thread/INFO]: 55maxx joined the game
-[19:46:46] [Server thread/INFO]: 55maxx[/127.169.100.254:53003] logged in with entity id 99422 at ([world]1360.0133748475228, 63.0, 54.432038908117555)
-[19:48:14] [Server thread/INFO]: 55maxx issued server command: /tpa teovserbo123
-[19:48:15] [Server thread/INFO]: teovserbo123 issued server command: /tpaccept
-[19:48:24] [Server thread/INFO]: 55maxx issued server command: /home
-[19:51:48] [Server thread/INFO]: teovserbo123 issued server command: /tpa 55maxx
-[19:51:50] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[19:53:01] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> 112
-[19:53:07] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> posta
-[19:53:10] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> la posta
-[19:53:11] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> e
-[19:53:13] [Async Chat Thread - #16/INFO]: [Not Secure] <55maxx> ahi
-[19:53:47] [Async Chat Thread - #16/INFO]: [Not Secure] <Mikecrack> 90
+[20:13:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:13:43] [ServerMain/INFO]: Loaded 1407 recipes
+[20:13:43] [ServerMain/INFO]: Loaded 1520 advancements
+[20:13:43] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[20:13:44] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 371.5ms
+[20:13:44] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[20:13:44] [Server thread/INFO]: Loading properties
+[20:13:44] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[20:13:44] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:13:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:13:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:13:44] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[20:13:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[20:13:45] [Server thread/INFO]: Default game type: SURVIVAL
+[20:13:45] [Server thread/INFO]: Generating keypair
+[20:13:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:13:46] [Server thread/INFO]: Using epoll channel type
+[20:13:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:13:46] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[20:13:46] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.2.0
+[20:13:46] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.9
+[20:13:46] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[20:13:46] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
+[20:13:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:13:46] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
+[20:13:47] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[20:13:48] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:13:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:13:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:13:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:13:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:13:48] [Server thread/INFO]: Preparing level "world"
+[20:13:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:13:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:13:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:13:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[20:13:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:13:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:13:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:13:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
+[20:13:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
+[20:13:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[20:13:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:13:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:13:48] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:13:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:13:49] [Server thread/INFO]: Preparing spawn area: 0%
+[20:13:49] [Server thread/INFO]: Preparing spawn area: 12%
+[20:13:50] [Server thread/INFO]: Preparing spawn area: 42%
+[20:13:50] [Server thread/INFO]: Time elapsed: 1346 ms
+[20:13:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:13:50] [Server thread/INFO]: Preparing spawn area: 0%
+[20:13:50] [Server thread/INFO]: Time elapsed: 291 ms
+[20:13:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:13:50] [Server thread/INFO]: Preparing spawn area: 0%
+[20:13:50] [Server thread/INFO]: Time elapsed: 158 ms
+[20:13:50] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[20:13:50] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[20:13:50] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[20:13:50] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[20:13:51] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[20:13:51] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[20:13:51] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.9
+[20:13:51] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[20:13:51] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.9
+[20:13:51] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[20:13:51] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[20:13:51] [Server thread/INFO]: [spark] Starting background profiler...
+[20:13:52] [Server thread/INFO]: Done preparing level "world" (3.874s)
+[20:13:52] [Server thread/INFO]: Running delayed init tasks
+[20:13:52] [Server thread/INFO]: Done (18.805s)! For help, type "help"
+[20:14:07] [User Authenticator #0/INFO]: UUID of player Mikecrack is 967f0542-eda3-3896-b0a1-a83a3ce0b412
+[20:14:07] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[20:14:08] [Server thread/INFO]: Mikecrack joined the game
+[20:14:08] [Server thread/INFO]: Mikecrack[/127.197.107.231:46313] logged in with entity id 63 at ([world_nether]199.69999998807907, 39.0, 26.56610281982864)
+[20:14:17] [Server thread/INFO]: Mikecrack issued server command: /home
+[20:15:49] [User Authenticator #1/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[20:15:50] [Server thread/INFO]: 55maxx joined the game
+[20:15:50] [Server thread/INFO]: 55maxx[/127.169.100.254:33705] logged in with entity id 1276 at ([world_the_end]100.66677456115558, 49.0, 2.6566113024546927)
+[20:16:09] [Server thread/INFO]: 55maxx issued server command: /home
+[20:16:39] [Server thread/INFO]: Mikecrack issued server command: /home
+[20:20:55] [Server thread/INFO]: Mikecrack issued server command: /tpa 55maxx
+[20:20:58] [Server thread/INFO]: 55maxx issued server command: /tpaccept
