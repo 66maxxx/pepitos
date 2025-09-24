@@ -136,3 +136,38 @@
 [18:02:19] [Server thread/INFO]: j04c001 left the game
 [18:04:49] [Server thread/INFO]: Mikecrack issued server command: /HOME
 [18:04:52] [Server thread/INFO]: Mikecrack issued server command: /home
+[18:09:39] [Server thread/INFO]: Mikecrack issued server command: /home
+[18:15:42] [User Authenticator #6/INFO]: UUID of player teovserbo123 is 2e7d6868-464c-3df9-9a39-40997ca4a0e4
+[18:15:43] [Server thread/INFO]: teovserbo123 joined the game
+[18:15:43] [Server thread/INFO]: teovserbo123[/127.143.199.33:46675] logged in with entity id 41742 at ([world]1816.24590557255, -26.0, 661.3557872331178)
+[18:16:40] [Server thread/INFO]: teovserbo123 issued server command: /tpa 55maxx
+[18:16:43] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[18:17:03] [Server thread/INFO]: teovserbo123 has made the advancement [Hidden in the Depths]
+[18:17:52] [Server thread/INFO]: NACHITOPRO898 issued server command: /home
+[18:18:55] [Server thread/INFO]: Mikecrack issued server command: /home
+[18:21:06] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> xaero-waypoint:casa mateo:C:1054:63:-123:2:false:0:Internal-overworld
+[18:21:11] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> xaero-waypoint:end:E:2071:16:28:8:false:0:Internal-overworld
+[18:21:14] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> xaero-waypoint:Shared Location:S:1085:63:505:1:false:0:Internal-overworld
+[18:21:36] [Async Chat Thread - #10/INFO]: [Not Secure] <55maxx> 1057 -145 mateo casa
+[18:21:39] [Server thread/INFO]: Mikecrack issued server command: /home
+[18:22:15] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[18:22:15] [Server thread/INFO]: 55maxx left the game
+[18:22:24] [User Authenticator #7/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[18:22:25] [Server thread/INFO]: 55maxx joined the game
+[18:22:25] [Server thread/INFO]: 55maxx[/127.169.100.254:53813] logged in with entity id 47661 at ([world]1350.1961224416928, 63.0, 71.07725351507689)
+[18:23:27] [Server thread/WARN]: Mikecrack moved wrongly!
+[18:23:34] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpa 55maxx
+[18:23:53] [Server thread/INFO]: 55maxx issued server command: /skin donramon
+[18:24:05] [Server thread/INFO]: 55maxx issued server command: /skin elchavo
+[18:24:49] [Server thread/INFO]: NACHITOPRO898 has made the advancement [The Cutest Predator]
+[18:24:51] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[18:25:45] [Server thread/INFO]: Mikecrack issued server command: /home
+[18:25:49] [Server thread/WARN]: Mikecrack moved wrongly!
+[18:25:58] [Server thread/INFO]: 55maxx issued server command: /skin ramon
+[18:26:03] [Server thread/INFO]: 55maxx issued server command: /skin chavo8
+[18:26:10] [Server thread/INFO]: 55maxx issued server command: /skin chavodel8
+[18:26:14] [Server thread/INFO]: 55maxx issued server command: /skin chavo
+[18:26:19] [Server thread/INFO]: 55maxx issued server command: /skin random
+[18:26:26] [Async Chat Thread - #12/INFO]: [Not Secure] <55maxx> ./skin random
+[18:27:07] [Server thread/INFO]: 55maxx issued server command: /skin AlexisFourtune
+[18:28:06] [Async Chat Thread - #14/INFO]: [Not Secure] <55maxx> 67
