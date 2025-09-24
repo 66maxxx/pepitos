@@ -1,201 +1,96 @@
-[02:27:22] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[02:27:22] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[02:27:23] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:27:23] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[02:27:23] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[04:53:27] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[04:53:27] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[04:53:27] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:53:27] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[04:53:27] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - LoginSecurity (3.2.0), SetHome (6.2.3), SimpleTpa (7.9), SkinsRestorer (15.8.0)
-[02:27:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:27:30] [ServerMain/INFO]: Loaded 1407 recipes
-[02:27:30] [ServerMain/INFO]: Loaded 1520 advancements
-[02:27:30] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[02:27:30] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 378.8ms
-[02:27:30] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[02:27:30] [Server thread/INFO]: Loading properties
-[02:27:30] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[02:27:30] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:27:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:27:30] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:27:31] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[02:27:31] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[02:27:31] [Server thread/INFO]: Default game type: SURVIVAL
-[02:27:31] [Server thread/INFO]: Generating keypair
-[02:27:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:27:31] [Server thread/INFO]: Using epoll channel type
-[02:27:31] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:27:31] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[02:27:32] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.2.0
-[02:27:32] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.9
-[02:27:32] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
-[02:27:32] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
-[02:27:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:27:32] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
-[02:27:32] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
-[02:27:33] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:27:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:27:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:27:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:27:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:27:33] [Server thread/INFO]: Preparing level "world"
-[02:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[02:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
-[02:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
-[02:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[02:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:27:33] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:27:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:27:34] [Server thread/INFO]: Preparing spawn area: 0%
-[02:27:34] [Server thread/INFO]: Preparing spawn area: 4%
-[02:27:34] [Server thread/INFO]: Time elapsed: 940 ms
-[02:27:34] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:27:35] [Server thread/INFO]: Preparing spawn area: 0%
-[02:27:35] [Server thread/INFO]: Time elapsed: 495 ms
-[02:27:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:27:35] [Server thread/INFO]: Preparing spawn area: 0%
-[02:27:35] [Server thread/INFO]: Time elapsed: 398 ms
-[02:27:35] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[02:27:35] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[02:27:35] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[02:27:36] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[02:27:36] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[02:27:36] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[02:27:36] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.9
-[02:27:36] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[02:27:36] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.9
-[02:27:36] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[02:27:36] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
-[02:27:36] [Server thread/INFO]: [spark] Starting background profiler...
-[02:27:36] [Server thread/INFO]: Done preparing level "world" (3.146s)
-[02:27:36] [Server thread/INFO]: Running delayed init tasks
-[02:27:36] [Server thread/INFO]: Done (14.708s)! For help, type "help"
-[02:27:36] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: ec7e741f-51dd-4e0b-ad55-b801d79b5835, mapped to ItemEntity['Cobblestone'/32, uuid='ec7e741f-51dd-4e0b-ad55-b801d79b5835', l='ServerLevel[world_nether]', x=257.53, y=36.52, z=4.53, cpos=[16, 0], tl=0, v=true], can't add ItemEntity['Cobblestone'/77, uuid='ec7e741f-51dd-4e0b-ad55-b801d79b5835', l='ServerLevel[world_nether]', x=257.53, y=36.52, z=4.53, cpos=[16, 0], tl=0, v=false]
-[02:27:43] [User Authenticator #0/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
-[02:27:43] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
-[02:27:44] [Server thread/INFO]: 55maxx joined the game
-[02:27:44] [Server thread/INFO]: 55maxx[/127.169.100.254:54665] logged in with entity id 78 at ([world]1346.7606952960614, 63.0, 72.44992842242918)
-[02:27:45] [User Authenticator #0/INFO]: UUID of player Mikecrack is 967f0542-eda3-3896-b0a1-a83a3ce0b412
-[02:27:46] [Server thread/INFO]: Mikecrack joined the game
-[02:27:46] [Server thread/INFO]: Mikecrack[/127.2.64.235:35187] logged in with entity id 165 at ([world]96.38806182925259, 27.0, -80.30000001192093)
-[02:27:53] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d5671dae-6ba1-4168-9143-cbc3f47316a3, mapped to Chicken['Chicken'/629, uuid='d5671dae-6ba1-4168-9143-cbc3f47316a3', l='ServerLevel[world]', x=-58.64, y=118.00, z=-217.12, cpos=[-4, -14], tl=0, v=true], can't add Chicken['Chicken'/657, uuid='d5671dae-6ba1-4168-9143-cbc3f47316a3', l='ServerLevel[world]', x=-57.32, y=118.00, z=-225.72, cpos=[-4, -15], tl=0, v=false]
-[02:28:26] [Server thread/INFO]: Mikecrack issued server command: /home
-[02:29:24] [Server thread/INFO]: 55maxx has reached the goal [Zombie Doctor]
-[02:29:29] [User Authenticator #1/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
-[02:29:30] [Server thread/INFO]: NACHITOPRO898 joined the game
-[02:29:30] [Server thread/INFO]: NACHITOPRO898[/127.48.164.89:52413] logged in with entity id 1373 at ([world]1435.8863993897926, 63.0, 64.72304016861773)
-[02:31:53] [Async Chat Thread - #0/INFO]: [Not Secure] <55maxx> seriedad ante todo
-[02:31:54] [Async Chat Thread - #0/INFO]: [Not Secure] <55maxx> siervo
-[02:31:59] [Async Chat Thread - #0/INFO]: [Not Secure] <Mikecrack> vease al real seriedad
-[02:32:16] [Server thread/INFO]: NACHITOPRO898 issued server command: /home
-[02:37:01] [Server thread/INFO]: Mikecrack issued server command: /home
-[02:38:51] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpa 55maxx
-[02:38:54] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[02:39:47] [Async Chat Thread - #2/INFO]: [Not Secure] <Mikecrack> pongase serio siervo
-[02:39:50] [Async Chat Thread - #2/INFO]: [Not Secure] <Mikecrack> pongase serio
-[02:41:03] [Server thread/INFO]: 55maxx issued server command: /kick Mikecrack
-[02:41:03] [Server thread/INFO]: Mikecrack lost connection: Kicked by an operator
-[02:41:03] [Server thread/INFO]: Mikecrack left the game
-[02:41:03] [Server thread/INFO]: [55maxx: Kicked Mikecrack: Kicked by an operator]
-[02:42:09] [User Authenticator #2/INFO]: UUID of player Mikecrack is 967f0542-eda3-3896-b0a1-a83a3ce0b412
-[02:42:10] [Server thread/INFO]: Mikecrack joined the game
-[02:42:10] [Server thread/INFO]: Mikecrack[/127.2.64.235:44763] logged in with entity id 15875 at ([world_nether]225.82349052477943, 83.0, 65.0657796553666)
-[02:43:10] [Server thread/INFO]: Mikecrack issued server command: /home
-[02:45:19] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[02:46:28] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[02:50:01] [Server thread/INFO]: Mikecrack has completed the challenge [Hot Tourist Destinations]
-[02:51:49] [Server thread/INFO]: Mikecrack has made the advancement [Hot Stuff]
-[02:51:53] [Server thread/INFO]: Mikecrack issued server command: /tpa 55maxx
-[02:51:54] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[02:52:01] [Server thread/INFO]: Mikecrack issued server command: /home
-[02:52:03] [Server thread/INFO]: Mikecrack burned to death
-[02:52:39] [Server thread/INFO]: Mikecrack issued server command: /tpa 55maxx
-[02:52:44] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[02:53:10] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[03:02:31] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
-[03:02:31] [Server thread/INFO]: NACHITOPRO898 left the game
-[03:02:40] [User Authenticator #3/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
-[03:02:41] [Server thread/INFO]: NACHITOPRO898 joined the game
-[03:02:41] [Server thread/INFO]: NACHITOPRO898[/127.48.164.89:60717] logged in with entity id 23705 at ([world]1978.0271687179895, -2.5, 855.5050191712421)
-[03:03:25] [User Authenticator #3/INFO]: UUID of player focareborn is 15a9d3e2-110b-3d7d-b53b-942979256b43
-[03:03:26] [Server thread/INFO]: focareborn joined the game
-[03:03:26] [Server thread/INFO]: focareborn[/127.142.249.95:33241] logged in with entity id 24119 at ([world]1344.6989993718246, 64.0, 70.76249998807907)
-[03:03:40] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[03:04:07] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpa 55maxx
-[03:04:15] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[03:04:48] [Server thread/INFO]: focareborn issued server command: /home
-[03:05:08] [Async Chat Thread - #4/INFO]: [Not Secure] <Mikecrack> pongase serio ciervo
-[03:05:13] [Server thread/INFO]: 55maxx issued server command: /ban NACHITOPRO898
-[03:05:13] [Server thread/INFO]: [55maxx: Banned NACHITOPRO898: Banned by an operator.]
-[03:05:13] [Server thread/INFO]: NACHITOPRO898 lost connection: You are banned from this server
-[03:05:13] [Server thread/INFO]: NACHITOPRO898 left the game
-[03:05:41] [Server thread/INFO]: 55maxx issued server command: /pardon NACHITOPRO898
-[03:05:41] [Server thread/INFO]: [55maxx: Unbanned NACHITOPRO898]
-[03:05:47] [User Authenticator #4/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
-[03:05:48] [Server thread/INFO]: NACHITOPRO898 joined the game
-[03:05:48] [Server thread/INFO]: NACHITOPRO898[/127.48.164.89:52285] logged in with entity id 25139 at ([world]1429.3664381141773, 63.0, 55.40416672912973)
-[03:05:51] [Server thread/INFO]: focareborn fell from a high place
-[03:05:54] [Server thread/INFO]: focareborn issued server command: /back
-[03:06:44] [Server thread/INFO]: focareborn issued server command: /home
-[03:11:29] [Server thread/INFO]: focareborn lost connection: Disconnected
-[03:11:29] [Server thread/INFO]: focareborn left the game
-[03:11:51] [Server thread/INFO]: Mikecrack issued server command: /home
-[03:22:19] [Server thread/INFO]: 55maxx issued server command: /home
-[03:28:45] [Async Chat Thread - #6/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscar
-[03:29:13] [Async Chat Thread - #6/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscar
-[03:29:13] [Async Chat Thread - #6/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscar
-[03:29:14] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscar
-[03:29:14] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscar
-[03:29:14] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscar
-[03:29:15] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:15] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:16] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:16] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:17] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:17] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:17] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:18] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:18] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:18] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:19] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:19] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:20] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscar
-[03:29:20] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscar
-[03:29:20] [Async Chat Thread - #6/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscar
-[03:29:20] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:21] [Async Chat Thread - #6/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:21] [Async Chat Thread - #6/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:21] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:21] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscar
-[03:29:22] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:22] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscar
-[03:29:22] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscar
-[03:29:22] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscar
-[03:29:23] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscar
-[03:29:26] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscart
-[03:29:29] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> chabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscartchabo de la seriedad desgarre anal por don seriedad a cambio de una torta de seriedad buscartchabo de la seriedad desgarre anal por don seriedad a cambio de una to
-[03:29:35] [Async Chat Thread - #7/INFO]: [Not Secure] <55maxx> sea serio oe 55maxx
-[03:30:16] [Server thread/INFO]: Mikecrack was slain by 55maxx
-[03:34:08] [Server thread/WARN]: NACHITOPRO898 moved wrongly!
-[03:37:20] [Server thread/INFO]: Mikecrack issued server command: /tpa 55maxx
-[03:37:22] [Server thread/INFO]: 55maxx issued server command: /tpaccept
-[03:41:25] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[03:41:44] [Server thread/INFO]: NACHITOPRO898 issued server command: /home
-[03:42:36] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[03:47:48] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[03:48:05] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[03:48:38] [Server thread/INFO]: Villager Villager['Fletcher'/1367, uuid='f19724c0-cbed-49e3-a752-a4f659db6d69', l='ServerLevel[world]', x=1382.30, y=63.00, z=93.70, cpos=[86, 5], tl=95088, v=true] died, message: 'Fletcher was slain by Zombie'
-[04:06:20] [Server thread/INFO]: 55maxx issued server command: /home
-[04:11:18] [Async Chat Thread - #8/INFO]: [Not Secure] <55maxx> bro¡
-[04:16:49] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[04:17:19] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
-[04:18:37] [Server thread/INFO]: Villager Villager['Cleric'/128, uuid='a0f0ad01-e13d-40a8-9f30-7be7d4939c56', l='ServerLevel[world]', x=1330.31, y=63.00, z=-8.11, cpos=[83, -1], tl=133024, v=true] died, message: 'Cleric was slain by Zombie'
-[04:39:37] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
-[04:39:37] [Server thread/INFO]: NACHITOPRO898 left the game
-[04:40:57] [User Authenticator #5/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
-[04:40:59] [Server thread/INFO]: NACHITOPRO898 joined the game
-[04:40:59] [Server thread/INFO]: NACHITOPRO898[/127.48.164.89:36941] logged in with entity id 48010 at ([world]1403.5098855409058, 63.0, 37.6111463290192)
+[04:53:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:53:33] [ServerMain/INFO]: Loaded 1407 recipes
+[04:53:34] [ServerMain/INFO]: Loaded 1520 advancements
+[04:53:34] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[04:53:34] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 370.5ms
+[04:53:34] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[04:53:34] [Server thread/INFO]: Loading properties
+[04:53:34] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[04:53:34] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:53:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:53:34] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:53:35] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[04:53:35] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[04:53:35] [Server thread/INFO]: Default game type: SURVIVAL
+[04:53:35] [Server thread/INFO]: Generating keypair
+[04:53:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:53:35] [Server thread/INFO]: Using epoll channel type
+[04:53:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:53:35] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[04:53:35] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.2.0
+[04:53:35] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.9
+[04:53:35] [Server thread/INFO]: [SetHome] Loading server plugin SetHome v6.2.3
+[04:53:35] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.8.0
+[04:53:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:53:35] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.8.0
+[04:53:36] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[04:53:37] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[04:53:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:53:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:53:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:53:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:53:37] [Server thread/INFO]: Preparing level "world"
+[04:53:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:53:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:53:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[04:53:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[04:53:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[04:53:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:53:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:53:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.8.0
+[04:53:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 752814e
+[04:53:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[04:53:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:53:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[04:53:37] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[04:53:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:53:38] [Server thread/INFO]: Preparing spawn area: 0%
+[04:53:38] [Server thread/INFO]: Preparing spawn area: 42%
+[04:53:38] [Server thread/INFO]: Time elapsed: 954 ms
+[04:53:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:53:38] [Server thread/INFO]: Preparing spawn area: 0%
+[04:53:39] [Server thread/INFO]: Time elapsed: 231 ms
+[04:53:39] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:53:39] [Server thread/INFO]: Preparing spawn area: 0%
+[04:53:39] [Server thread/INFO]: Time elapsed: 133 ms
+[04:53:39] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[04:53:39] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[04:53:39] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[04:53:39] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[04:53:39] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[04:53:39] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[04:53:39] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.9
+[04:53:39] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[04:53:39] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.9
+[04:53:39] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[04:53:39] [Server thread/INFO]: [SetHome] Enabling SetHome v6.2.3
+[04:53:39] [Server thread/INFO]: [spark] Starting background profiler...
+[04:53:39] [Server thread/INFO]: Done preparing level "world" (2.565s)
+[04:53:39] [Server thread/INFO]: Running delayed init tasks
+[04:53:39] [Server thread/INFO]: Done (13.775s)! For help, type "help"
+[04:53:44] [User Authenticator #0/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[04:53:45] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer, LoginSecurity]
+[04:53:46] [Server thread/INFO]: 55maxx joined the game
+[04:53:46] [Server thread/INFO]: 55maxx[/127.169.100.254:46533] logged in with entity id 47 at ([world]1465.1859953242595, 94.0, -97.52191236760956)
+[04:53:46] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a478b34f-e68d-45f3-bc7d-51a982b608dc, mapped to Zombie['Zombie'/101, uuid='a478b34f-e68d-45f3-bc7d-51a982b608dc', l='ServerLevel[world]', x=1431.51, y=7.00, z=-111.79, cpos=[89, -7], tl=0, v=true], can't add Zombie['Zombie'/121, uuid='a478b34f-e68d-45f3-bc7d-51a982b608dc', l='ServerLevel[world]', x=1431.51, y=7.00, z=-112.28, cpos=[89, -8], tl=0, v=false]
+[04:53:46] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7135acef-fb7b-479a-8323-9a9c8acc2ea5, mapped to Sheep['Sheep'/108, uuid='7135acef-fb7b-479a-8323-9a9c8acc2ea5', l='ServerLevel[world]', x=1487.62, y=91.00, z=-73.48, cpos=[92, -5], tl=0, v=true], can't add Sheep['Sheep'/142, uuid='7135acef-fb7b-479a-8323-9a9c8acc2ea5', l='ServerLevel[world]', x=1488.21, y=91.00, z=-73.49, cpos=[93, -5], tl=0, v=false]
+[04:53:52] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 79c20c38-b5d3-410b-a4f6-e844c7c94b82, mapped to Turtle['Turtle'/324, uuid='79c20c38-b5d3-410b-a4f6-e844c7c94b82', l='ServerLevel[world]', x=1579.75, y=62.29, z=-240.07, cpos=[98, -16], tl=0, v=true], can't add Turtle['Turtle'/341, uuid='79c20c38-b5d3-410b-a4f6-e844c7c94b82', l='ServerLevel[world]', x=1583.77, y=62.00, z=-260.09, cpos=[98, -17], tl=0, v=false]
+[04:53:52] [User Authenticator #0/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
+[04:53:53] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 04a02809-c4ec-4228-9526-ee791ba2ca6b, mapped to Turtle['Turtle'/348, uuid='04a02809-c4ec-4228-9526-ee791ba2ca6b', l='ServerLevel[world]', x=1627.02, y=63.00, z=-223.01, cpos=[101, -14], tl=0, v=true], can't add Turtle['Turtle'/373, uuid='04a02809-c4ec-4228-9526-ee791ba2ca6b', l='ServerLevel[world]', x=1630.99, y=63.00, z=-225.91, cpos=[101, -15], tl=0, v=false]
+[04:53:53] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: cac96de5-17a1-49b7-9c8f-6a4378838c0a, mapped to Turtle['Turtle'/323, uuid='cac96de5-17a1-49b7-9c8f-6a4378838c0a', l='ServerLevel[world]', x=1575.02, y=57.92, z=-244.32, cpos=[98, -16], tl=0, v=true], can't add Turtle['Turtle'/375, uuid='cac96de5-17a1-49b7-9c8f-6a4378838c0a', l='ServerLevel[world]', x=1589.84, y=60.00, z=-262.05, cpos=[99, -17], tl=0, v=false]
+[04:53:53] [Server thread/INFO]: NACHITOPRO898 joined the game
+[04:53:53] [Server thread/INFO]: NACHITOPRO898[/127.48.164.89:52501] logged in with entity id 350 at ([world]1402.7438244782284, 65.0, 26.039765704324555)
+[04:53:55] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 04a02809-c4ec-4228-9526-ee791ba2ca6b, mapped to Turtle['Turtle'/348, uuid='04a02809-c4ec-4228-9526-ee791ba2ca6b', l='ServerLevel[world]', x=1627.02, y=63.00, z=-223.01, cpos=[101, -14], tl=0, v=true], can't add Turtle['Turtle'/457, uuid='04a02809-c4ec-4228-9526-ee791ba2ca6b', l='ServerLevel[world]', x=1648.05, y=62.00, z=-247.20, cpos=[103, -16], tl=0, v=false]
+[04:56:54] [Server thread/INFO]: NACHITOPRO898 issued server command: /home
+[04:56:59] [Server thread/INFO]: NACHITOPRO898 issued server command: /tpa 55maxx
+[04:57:01] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[04:59:34] [Server thread/INFO]: Villager Villager['Cleric'/368, uuid='a63361dc-e201-40ae-94b7-90f79967bd95', l='ServerLevel[world]', x=1340.48, y=63.00, z=34.50, cpos=[83, 2], tl=6778, v=true] died, message: 'Cleric was slain by Zombie'
+[04:59:38] [Server thread/INFO]: 55maxx issued server command: /save-all
+[04:59:38] [Server thread/INFO]: [55maxx: Saved the game]
+[04:59:57] [Server thread/INFO]: 55maxx issued server command: /tps
