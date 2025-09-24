@@ -108,3 +108,5 @@
 [20:58:47] [Async Chat Thread - #0/INFO]: [Not Secure] <Mikecrack> no m esccuhas
 [20:58:49] [Async Chat Thread - #0/INFO]: [Not Secure] <55maxx> pa pa apa pa mapa padreee
 [20:58:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Mikecrack> salite y volve a entrar
+[21:10:00] [Server thread/INFO]: Mikecrack issued server command: /home
+[21:11:55] [Server thread/INFO]: Villager Villager['Farmer'/510, uuid='77078147-595c-4643-890c-158947b0eb35', l='ServerLevel[world]', x=1280.41, y=63.00, z=46.31, cpos=[80, 2], tl=67903, v=true] died, message: 'Farmer was slain by Drowned'
