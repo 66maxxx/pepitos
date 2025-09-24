@@ -171,3 +171,13 @@
 [18:26:26] [Async Chat Thread - #12/INFO]: [Not Secure] <55maxx> ./skin random
 [18:27:07] [Server thread/INFO]: 55maxx issued server command: /skin AlexisFourtune
 [18:28:06] [Async Chat Thread - #14/INFO]: [Not Secure] <55maxx> 67
+[18:28:25] [Server thread/WARN]: NACHITOPRO898 moved wrongly!
+[18:30:10] [Server thread/INFO]: Mikecrack has made the advancement [Enchanter]
+[18:30:51] [Server thread/INFO]: 55maxx lost connection: Disconnected
+[18:30:51] [Server thread/INFO]: 55maxx left the game
+[18:37:24] [User Authenticator #8/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[18:37:25] [Server thread/INFO]: 55maxx joined the game
+[18:37:25] [Server thread/INFO]: 55maxx[/127.169.100.254:35671] logged in with entity id 57813 at ([world]1348.9664839952366, 63.0, 73.58809140826565)
+[18:38:15] [Server thread/INFO]: NACHITOPRO898 issued server command: /back
+[18:38:17] [Server thread/INFO]: teovserbo123 issued server command: /tpa 55maxx
+[18:38:20] [Server thread/INFO]: 55maxx issued server command: /tpaccept
