@@ -196,3 +196,6 @@
 [04:18:37] [Server thread/INFO]: Villager Villager['Cleric'/128, uuid='a0f0ad01-e13d-40a8-9f30-7be7d4939c56', l='ServerLevel[world]', x=1330.31, y=63.00, z=-8.11, cpos=[83, -1], tl=133024, v=true] died, message: 'Cleric was slain by Zombie'
 [04:39:37] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
 [04:39:37] [Server thread/INFO]: NACHITOPRO898 left the game
+[04:40:57] [User Authenticator #5/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
+[04:40:59] [Server thread/INFO]: NACHITOPRO898 joined the game
+[04:40:59] [Server thread/INFO]: NACHITOPRO898[/127.48.164.89:36941] logged in with entity id 48010 at ([world]1403.5098855409058, 63.0, 37.6111463290192)
