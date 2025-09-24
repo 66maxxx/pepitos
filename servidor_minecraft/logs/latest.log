@@ -95,3 +95,16 @@
 [20:43:12] [Server thread/INFO]: Mikecrack issued server command: /home
 [20:46:44] [Server thread/INFO]: Mikecrack issued server command: /home
 [20:51:21] [Server thread/INFO]: Mikecrack issued server command: /home
+[20:55:59] [Server thread/WARN]: Mikecrack moved wrongly!
+[20:58:12] [User Authenticator #2/INFO]: Disconnecting 55maxx (/127.240.210.54:54469): [LoginSecurity] This player is already online!
+[20:58:12] [User Authenticator #2/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[20:58:12] [Server thread/INFO]: 55maxx (/127.240.210.54:54469) lost connection: [LoginSecurity] This player is already online!
+[20:58:17] [Server thread/INFO]: 55maxx lost connection: Timed out
+[20:58:17] [Server thread/INFO]: 55maxx left the game
+[20:58:24] [User Authenticator #2/INFO]: UUID of player 55maxx is cab8da63-482d-30c6-ba59-213c7c5c9da7
+[20:58:24] [Server thread/INFO]: 55maxx joined the game
+[20:58:24] [Server thread/INFO]: 55maxx[/127.240.210.54:44055] logged in with entity id 18365 at ([world]1334.6434270925402, 72.0, 38.546786927373134)
+[20:58:42] [Async Chat Thread - #0/INFO]: [Not Secure] <55maxx> blo?
+[20:58:47] [Async Chat Thread - #0/INFO]: [Not Secure] <Mikecrack> no m esccuhas
+[20:58:49] [Async Chat Thread - #0/INFO]: [Not Secure] <55maxx> pa pa apa pa mapa padreee
+[20:58:50] [Async Chat Thread - #0/INFO]: [Not Secure] <Mikecrack> salite y volve a entrar
