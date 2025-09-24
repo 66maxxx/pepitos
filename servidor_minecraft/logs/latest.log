@@ -94,3 +94,16 @@
 [04:59:38] [Server thread/INFO]: 55maxx issued server command: /save-all
 [04:59:38] [Server thread/INFO]: [55maxx: Saved the game]
 [04:59:57] [Server thread/INFO]: 55maxx issued server command: /tps
+[05:12:59] [User Authenticator #1/INFO]: UUID of player Mikecrack is 967f0542-eda3-3896-b0a1-a83a3ce0b412
+[05:13:01] [Server thread/INFO]: Mikecrack joined the game
+[05:13:01] [Server thread/INFO]: Mikecrack[/127.2.64.235:53981] logged in with entity id 4632 at ([world]1419.300000011921, 62.0, 98.33615434234694)
+[05:13:55] [Server thread/INFO]: Mikecrack issued server command: /home
+[05:14:13] [Server thread/INFO]: Mikecrack issued server command: /tpa 55maxx
+[05:14:15] [Server thread/INFO]: 55maxx issued server command: /tpaccept
+[05:14:50] [Server thread/INFO]: Mikecrack issued server command: /home
+[05:16:01] [Server thread/WARN]: Mikecrack moved wrongly!
+[05:17:40] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
+[05:17:40] [Server thread/INFO]: NACHITOPRO898 left the game
+[05:22:20] [Server thread/INFO]: 55maxx issued server command: /skin armadillo
+[05:22:25] [Server thread/INFO]: 55maxx issued server command: /skin messi
+[05:22:35] [Server thread/INFO]: 55maxx issued server command: /skin cr7
