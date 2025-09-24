@@ -131,3 +131,11 @@
 [01:58:59] [User Authenticator #14/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
 [01:59:00] [Server thread/INFO]: NACHITOPRO898 joined the game
 [01:59:00] [Server thread/INFO]: NACHITOPRO898[/127.48.164.89:40557] logged in with entity id 81568 at ([world]1474.5674364499582, 63.0, 61.21643074061014)
+[02:05:48] [Server thread/INFO]: NACHITOPRO898 lost connection: Disconnected
+[02:05:48] [Server thread/INFO]: NACHITOPRO898 left the game
+[02:06:56] [Server thread/WARN]: Mikecrack moved wrongly!
+[02:07:04] [Server thread/INFO]: Mikecrack issued server command: /home
+[02:09:31] [User Authenticator #15/INFO]: UUID of player NACHITOPRO898 is 273d9d3c-3849-308c-b669-87cf4830d306
+[02:09:32] [Server thread/INFO]: NACHITOPRO898 joined the game
+[02:09:32] [Server thread/INFO]: NACHITOPRO898[/127.48.164.89:44743] logged in with entity id 89477 at ([world]1471.7276190009454, 63.0, 61.99404280639773)
+[02:13:00] [Server thread/WARN]: 55maxx moved wrongly!
